@@ -25,5 +25,4 @@ Eliminad o comentad (rodeando de `<!--` y `-->`) el texto entre las dos líneas 
 
 ## Participantes en el equipo
 
-- Apellidos, Nombre
-- ...
+- Juaristi Zabaleta, Ane
