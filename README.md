@@ -26,3 +26,4 @@ Eliminad o comentad (rodeando de `<!--` y `-->`) el texto entre las dos líneas 
 ## Participantes en el equipo
 
 - Juaristi Zabaleta, Ane
+- Odriozola Elizburu, Iñaki
