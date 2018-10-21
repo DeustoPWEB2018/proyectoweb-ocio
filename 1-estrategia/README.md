@@ -1,4 +1,4 @@
-# ALCANCE
+# ESTRATEGIA
 
 ## Objetivos 
 
