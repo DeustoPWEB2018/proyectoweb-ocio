@@ -18,15 +18,15 @@
 
 Persona 1: Fran Gutierrez Hermoso
 
-! [Alt Text] (https://www.flickr.com/photos/165512437@N08/45425472362/in/dateposted-public/)
+! [Fran GH](https://www.flickr.com/photos/165512437@N08/45425472362/in/dateposted-public/)
 
 Persona 2: Oscar Rodríguez Medrano
 
-! {Alt Text} (https://www.flickr.com/photos/165512437@N08/44562987745/in/dateposted-public/)
+! {Oscar RM}(https://www.flickr.com/photos/165512437@N08/44562987745/in/dateposted-public/)
 
 Persona 3: Elena Villanueva García
 
-! {Alt Text} (https://www.flickr.com/photos/165512437@N08/44562988595/in/dateposted-public/)
+! {Elena VG}(https://www.flickr.com/photos/165512437@N08/44562988595/in/dateposted-public/)
 
 ## Lean UX Canvas
 
