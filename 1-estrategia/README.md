@@ -21,6 +21,12 @@
 - Accesibilidad a las redes sociales: los botones que enlazan al usuario con nuestras redes sociales estarán situados en el homepage junto al nombre del portal.
 
 ### Indicadores de éxito
+- Los usuarios tardan menos de 10 segundos en entrar a la sección a la que quieran acceder.
+- El 50% de los lectores que acceden a contenidos valoran o comentan.
+- El 20% de los usuarios comparten contenidos en sus redes sociales.
+- El 80% de los usuarios que hacen uso del buscador encuentran el contenido.
+- El 50% de las visitas que reciben nuestras redes sociales llegan desde los botones de la página web.
+- Ningún contenido estará sin enlazar con otros contenidos.
 
 ## Necesidades del usuario
 
