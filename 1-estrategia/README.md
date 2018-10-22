@@ -10,11 +10,6 @@ Queremos atraer al máximo número de usuarios únicos posibles, por eso queremo
 Nuestra página web apuesta por el valor añadido en el contenido, es decir, que la información que ofrezcamos tenga un carácter único en base a la experiencia, investigación y conocimientos de los periodistas que trabajan en ella. Creemos que nuestros usuarios valorarán esa obtención de criterio a través de un contenido de calidad que, al mismo tiempo, fomente la música y la diversidad de géneros. 
 
 ### Circunstancias de uso
-- ¿Quién?
-- ¿Qué?
-- ¿Cuándo?
-- ¿Dónde?
-- ¿Porqué?
 
 ¿A quienes nos dirigimos? → Nuestro público objetivo serán personas aficionadas a la música y de carácter curioso que tengan entre 16 y 40 años, ya que consideramos que quienes se encuentran dentro de esta franja de edad, tienen un conocimiento básico suficiente sobre cómo navegar por Internet y de cómo utilizar una página web.
 
