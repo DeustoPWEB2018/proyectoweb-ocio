@@ -1,4 +1,5 @@
 # Plano de alcance
+
 ## Especificaciones funcionales
 
 								Musikamania
@@ -45,6 +46,6 @@ Esta versión no incluirá las siguientes funciones:
 - Compartir los contenidos a través de las redes sociales como Twitter o Facebook.
 - Escuchar las listas de canciones que aparezcan en la página web. Las personas no registradas también podrán acceder a las listas de canciones, pero no las podrán escuchar.
 
-## Referencias
+### Referencias
 
 - Spolsky, J. (2000): <i>QuéHoraEs.com</i>, Especificación Funcional 
