@@ -1,5 +1,5 @@
 # Plano de alcance
-##Slowcontent
+## Slowcontent
 
 Con el término “Slow Content” nos referimos a los contenidos que se han elaborado cuidadosamente para un público objetivo específico que busca informarse en profundidad sobre un tema en concreto, aunque ello le suponga invertir un tiempo considerable. El término “Slow”, por tanto, hace referencia a un tipo de usuario calmado y pausado, que consume información de forma consciente, valorando más la calidad que la inmediatez. El éxito de este tipo de contenido puede deberse a que sus propios creadores son también consumidores con un nivel avanzado sobre un tema en concreto, lo cual otorga mayor credibilidad al contenido. 
 
