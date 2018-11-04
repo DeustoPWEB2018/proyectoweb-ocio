@@ -10,7 +10,8 @@
 
 ### Generalidades
 
-Musikamania.com es un servicio, vía web, que cuenta con contenidos musicales como reportajes, entrevistas, noticias, incluso listas musicales de distintos géneros. 
+<i>Musikamania.com</i> es un servicio, vía web, que cuenta con contenidos musicales como reportajes, entrevistas, noticias, incluso listas musicales de distintos géneros. 
+
 Esta especificación no está terminada. Todo el texto del interfaz deber ser revisado varias veces antes de darse por acabada. El aspecto final se desarrollará a lo largo del tiempo, en colaboración de los diseñadores gráficos y del estudio de las reacciones de los usuarios.
 
 ### Escenarios
@@ -31,13 +32,13 @@ Esta versión no incluirá las siguientes funciones:
 
 ### Detalles
 
-Musikamania.com tendrá tres tipos de usuarios y cada tipo tendrá sus funciones específicas. 
+<i>Musikamania.com</i> tendrá tres tipos de usuarios y cada tipo tendrá sus funciones específicas. 
 
-Administradores: serán los encargados de llevar a cabo la página web. Su función será editar, configurar e incluso diseñar los contenidos que se ofrecerán y la página web en general. También se encargarán de controlar las visitas que tiene la página para saber si está funcionando bien o hay que hacer algún cambio.
+*Administradores:* serán los encargados de llevar a cabo la página web. Su función será editar, configurar e incluso diseñar los contenidos que se ofrecerán y la página web en general. También se encargarán de controlar las visitas que tiene la página para saber si está funcionando bien o hay que hacer algún cambio.
 
-Persona no suscrita: serán todas aquellas personas que accedan a la página web sin ser suscritas. Estas personas podrán acceder únicamente a algunos de los contenidos que se ofrezcan en la página. 
+*Persona no suscrita:* serán todas aquellas personas que accedan a la página web sin ser suscritas. Estas personas podrán acceder únicamente a algunos de los contenidos que se ofrezcan en la página. 
 
-Persona suscrita: estas personas, a parte de tener todas las funciones de las personas no suscritas, también tendrán otras funciones exclusivas para ellas:
+*Persona suscrita:* estas personas, a parte de tener todas las funciones de las personas no suscritas, también tendrán otras funciones exclusivas para ellas:
 
 - Podrán recibir noticias sobre los géneros musicales que hayan elegido los usuarios a la hora de registrarse.
 - Opción a ver más contenido, contenido más desarrollado.
@@ -46,3 +47,5 @@ Persona suscrita: estas personas, a parte de tener todas las funciones de las pe
 - Escuchar las listas de canciones que aparezcan en la página web. Las personas no registradas también podrán acceder a las listas de canciones, pero no las podrán escuchar.
 
 ## Referencias
+
+- Spolsky, J. (2000): <i>QuéHoraEs.com</i>, Especificación Funcional 
