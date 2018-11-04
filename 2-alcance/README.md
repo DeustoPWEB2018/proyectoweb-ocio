@@ -38,4 +38,9 @@ La mayor parte del contenido elaborado será creado por los fundadores de la web
 - Formato: todos los contenidos ofrecidos en la web serán multimedia. Las noticias de actualidad estarán acompañadas por imágenes, las listas de canciones también tendrán fotografías del músico o grupo, los videoclips una breve descripción, y los eventos que estén en la agenda tendrán su correspondiente imagen del cartel del concierto o festival.
 
 #### Tablas de página
+![Reportaje](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodrie-alcance/2-alcance/Reportaje.jpg)
+![Agenda](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodrie-alcance/2-alcance/Agenda.jpg)
+![Entrevista](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodrie-alcance/2-alcance/Entrevista.jpg)
+![Noticias](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodrie-alcance/2-alcance/Noticias.jpg)
+![Publicación de un CD](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodrie-alcance/2-alcance/Publicaci%C3%B3n%20de%20CD.jpg)
 ## Referencias
