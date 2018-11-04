@@ -2,10 +2,10 @@
 
 ## Especificaciones funcionales
 
-									*Musikamania*
+								Musikamania
 							Especificación Funcional
 
-									Pepito García
+								Pepito García
 						Última actualización: 4 de noviembre, 2018
 
 ### Generalidades
