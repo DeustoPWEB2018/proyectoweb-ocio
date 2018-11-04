@@ -98,5 +98,4 @@ La mayor parte del contenido elaborado será creado por los fundadores de la web
 ![Publicaión de CD](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/2-alcance/Publicaci%C3%B3n%20de%20CD.jpg)
 ![Reportaje](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/2-alcance/Reportaje.jpg)
 ## Referencias
-
 - Spolsky, J. (2000): <i>QuéHoraEs.com</i>, Especificación Funcional 
