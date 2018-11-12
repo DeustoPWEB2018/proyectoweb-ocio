@@ -1,4 +1,4 @@
-Secretaria: Iñaki Odriozola
+Seretaria: Iñaki Odriozola
 Control: Ane Juaristi
-Coordinación: Leire Neira
-Comunicación: Mikel Aranzabe
+Coordinación: Mikel Aranzabe
+Comunicación: Leire Neira
