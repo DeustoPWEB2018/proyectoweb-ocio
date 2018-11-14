@@ -1,6 +1,6 @@
 # Plano de estructura
 ## Diseño de la interacción
-##Arquitectura de la información
+## Arquitectura de la información
 ### Card Sorting
 ### Clasificación de contenidos
 ## Referencias
