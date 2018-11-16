@@ -125,6 +125,87 @@ En este caso volverán a la página de login para acceder a su cuenta mediante e
 
 #### Ventajas de los usuarios registrados
 
+Si el usuario no está registrado y hace clic en “registrarse ahora”, le aparecerá un formulario de entrada con los siguientes campos:
+
+- Nombre y dos apellidos
+- Nombre de usuario
+- E-mail
+- Contraseña
+- Repita la contraseña
+- País (estará directamente puesto España, si son de aquí no tendrán que hacer nada, si no son de España tendrán que buscar su país)
+		- Si eligen España también se les preguntará por la provincia y la localidad. Si ponen algún otro país que no sea España, en el momento que hagan clic en el país van a desaparecer los campos de provincia y localidad.
+- Provincia (aparecerán todas las provincias de España en una barra y tendrán que hacer clic en la suya)
+- Localidad (según la provincia que elijan les aparecerán todos los municipios de esta provincia en una barra y tendrán que hacer clic en la suya.
+		- Cuando ponen su municipio aparecerá directamente el código postal 
+- Año de nacimiento
+- Sexo
+
+Por otro lado, también se les preguntará: 
+- ¿De qué géneros te gustaría recibir noticias?
+		- Música clásica  
+		- Rock 
+		- Pop
+		- Reggaetón 
+		- Jazz 
+		- Trap 
+		- Punk 
+		- Rap 
+		- Techno 
+		- Flamenco 
+		- Country 
+		- Otro: 
+				- Si hacen clic en otro les aparecerá una barra donde podrán escribir el nombre del género que estén interesados
+
+- He leído y acepto los Términos de uso. (aparecerá un cuadrito al lado y tendrán que clicar encima para aceptar. Para ver que ya lo han aceptado aparecerá un tick dentro del cuadrito pequeño).
+		*NOTA:* Para registrarse es obligatorio aceptar los Términos de uso
+
+- Después de rellenar todos los campos (son obligatorios), hacer clic en Registrarse
+
+Una vez que hayan hecho clic en Registrarse, se les conducirá directamente a la página de login con una nota arriba de la página: 
+
+*NOTA:* Registro exitoso. Ingresa tus credenciales para acceder. 
+
+En este caso volverán a la página de login para acceder a su cuenta mediante el e-mail o el nombre de usuario y la contraseña.
+
+#### Ventajas de los usuarios registrados
+
+- Recibir noticias sobre los géneros musicales que hayan elegido los usuarios a la hora de registrarse
+
+	- Cada vez que se publique cualquier contenido relacionado con el género o géneros que hayan seleccionado al registrarse, se les mandará un e-mail con el siguiente mensaje.
+
+![contenido en redes sociales](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-estructura/3-estructura/Imágenes/contenido%20en%20redes%20sociales.jpg)
+
+ 	- Si hacen clic en el enlace se les conducirá directamente al contenido que se haya publicado en la página.
+
+- Opción a ver contenido más desarrollado 
+
+ 	- Esto no lo van a notar los usuarios porque una vez que ya se hayan registrado podrán navegar por todas las páginas de la web y les aparecerá siempre todo el contenido.
+
+- Dejar comentarios debajo de nuestros contenidos. 
+
+ 	- Cuando dejen cualquier comentario, aparecerá ya escrito el nombre de usuario con el que se hayan registrado en la página web, de modo que no habrá mensajes anónimos. 
+
+ ![dejar comentarios](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-estructura/3-estructura/Imágenes/dejar%20comentarios.jpg)
+
+  	- Cuando hagan clic en Comentar, aparecerá el comentario que han escrito con su nombre de usuario debajo del contenido a la que hayan accedido.
+
+- Compartir nuestros contenidos a través de las redes sociales. Tendrán la opción de poder compartirlo a través de Facebook o Twitter. 
+
+ 	- Debajo del contenido a la izquierda (antes de los comentarios) aparecerán los logos de Twitter y Facebook.
+ 	- Cuando hagan click en una de ellas, se les abrirá otra pestaña en el navegador con la dirección de dicho portal. En caso de que tengan la sesión iniciada podrán compartir el link directamente, en caso de que no sea así, tendrán que iniciar sesión y copiar el link ellos mismos o volver a la pestaña de nuestra web y volver a hacer click en el icono de la red social. 
+ 	- Cuando compartan el contenido en las redes sociales, aparecerán el título y el enlace al contenido.
+
+- Escuchar las listas de las últimas canciones o las más escuchadas de algunos géneros musicales. 
+
+ 	- Si no están registrados, les aparecerán todas las listas y los nombres de las canciones, pero no tendrán la opción de escucharlas. Si hacen clic en las canciones, les conducirá directamente a la página de regístrate con una nota arriba del todo de la página. 
+
+*NOTA:* Para escuchar las canciones, es necesario que estés registrado.
+
+
+- Las personas registradas, cuando hagan clic encima de cualquier canción, ésta se reproducirá automáticamente y aparecerá una barra de reproducción justo debajo para indicar lo siguiente:
+
+ 	- Se está reproduciendo la canción y su duración. Si hacen clic encima del logo de pausa (II), se parará automáticamente y el logo se cambiará a la de reproducir (punta de la flecha).
+ 	- En la duración de la canción, aparecerá una línea en la que se observará el tiempo de la canción. En el extremo izquierdo aparecerá escrito 00.00 y, a medida que la canción avance, se irán añadiendo los segundos y minutos. Sobre la línea temporal aparecerá un botón para saber que parte de la canción se ha escuchado y por donde va. A medida que la rueda avance, la parte que ya se ha transcurrido cambiará a color blanco. En el extremo derecho siempre aparecerá la duración de la canción. 
 ## Arquitectura de la información
 ### Card Sorting
 ### Clasificación de contenidos
