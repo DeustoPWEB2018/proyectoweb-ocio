@@ -83,17 +83,18 @@ Si el usuario no está registrado y hace clic en “registrarse ahora”, le apa
 - Repita la contraseña
 - País (estará directamente puesto España, si son de aquí no tendrán que hacer nada, si no son de España tendrán que buscar su país)
 		
-	*Si eligen España también se les preguntará por la provincia y la localidad. Si ponen algún otro país que no sea España, en el momento que hagan clic en el país van a desaparecer los campos de provincia y localidad.
+  *Si eligen España también se les preguntará por la provincia y la localidad. Si ponen algún otro país que no sea España, en el momento que hagan clic en el país van a desaparecer los campos de provincia y localidad.
 		
 - Provincia (aparecerán todas las provincias de España en una barra y tendrán que hacer clic en la suya)
 - Localidad (según la provincia que elijan les aparecerán todos los municipios de esta provincia en una barra y tendrán que hacer clic en la suya.
 
-	*Cuando ponen su municipio aparecerá directamente el código postal 
+ *Cuando ponen su municipio aparecerá directamente el código postal 
 		
 - Año de nacimiento
 - Sexo
 
 Por otro lado, también se les preguntará: 
+
 - ¿De qué géneros te gustaría recibir noticias?
 
 	- Música clásica  
@@ -109,7 +110,7 @@ Por otro lado, también se les preguntará:
 	- Country 
 	- Otro: 
 	
-	 *Si hacen clic en Otro les aparecerá una barra donde podrán escribir el nombre del género que estén interesados
+  *Si hacen clic en Otro les aparecerá una barra donde podrán escribir el nombre del género que estén interesados
 
 - He leído y acepto los Términos de uso. (aparecerá un cuadrito al lado y tendrán que clicar encima para aceptar. Para ver que ya lo han aceptado aparecerá un tick dentro del cuadrito pequeño).
 
