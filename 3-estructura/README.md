@@ -109,7 +109,7 @@ Por otro lado, también se les preguntará:
 	- Country 
 	- Otro: 
 	
-	 *Si hacen clic en otro les aparecerá una barra donde podrán escribir el nombre del género que estén interesados
+	 *Si hacen clic en Otro les aparecerá una barra donde podrán escribir el nombre del género que estén interesados
 
 - He leído y acepto los Términos de uso. (aparecerá un cuadrito al lado y tendrán que clicar encima para aceptar. Para ver que ya lo han aceptado aparecerá un tick dentro del cuadrito pequeño).
 
