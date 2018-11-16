@@ -33,7 +33,7 @@ Cuando hacen clic en acceso les aparecerá una barra con dos opciones: login y r
 
 - Para asegurarse que han hecho clic en Recuérdame, aparecerá un tick en el cuadrito que tendrá al lado.
 
-*Si hacen clic en Entrar*
+##### Si hacen clic en Entrar
 
 Cuando el suario hace clic en Entrar, las siguientes comprobaciones tienen lugar en el servidor:
 
@@ -46,7 +46,7 @@ Si se había introducido la dirección de e-mail, y corresponde a un miembro reg
 
 - Si la dirección de e-mail y la contraseña están bien, se les cargará otra vez la página principal. En la parte donde aparecía la opción de “Acceso”, ahora aparecerá el icono de una personita y el nombre de usuario con el que el usuario está registrado. De esta manera, indica que ya está dentro de su cuenta de Musikamania. Ahora sí, una vez registrados, pueden navegar libremente y tienen el acceso permitido a todos los contenidos publicados en la página web. Además también contarán con la opción de poder escuchar las canciones que aparecen en las listas.  
 
-*Si hacen clic en ¿Has olvidado tu contraseña?*
+##### Si hacen clic en ¿Has olvidado tu contraseña?
 
 Se les conducirá a una página donde se les pida su correo electrónico y una nota arriba del todo de la página.
 
@@ -73,6 +73,48 @@ El mensaje del e-mail que reciban en su correo será el siguiente:
 Cuando hagan clic en el enlace, irán directamente a la página de login de Musikamania.com
 
 #### Si hacen clic en Regístrate
+
+Si el usuario no está registrado y hace clic en “registrarse ahora”, le aparecerá un formulario de entrada con los siguientes campos:
+
+- Nombre y dos apellidos
+- Nombre de usuario
+- E-mail
+- Contraseña
+- Repita la contraseña
+- País (estará directamente puesto España, si son de aquí no tendrán que hacer nada, si no son de España tendrán que buscar su país)
+		- Si eligen España también se les preguntará por la provincia y la localidad. Si ponen algún otro país que no sea España, en el momento que hagan clic en el país van a desaparecer los campos de provincia y localidad.
+- Provincia (aparecerán todas las provincias de España en una barra y tendrán que hacer clic en la suya)
+- Localidad (según la provincia que elijan les aparecerán todos los municipios de esta provincia en una barra y tendrán que hacer clic en la suya.
+		- Cuando ponen su municipio aparecerá directamente el código postal 
+- Año de nacimiento
+- Sexo
+
+Por otro lado, también se les preguntará: 
+- ¿De qué géneros te gustaría recibir noticias?
+		- Música clásica  
+		- Rock 
+		- Pop
+		- Reggaetón 
+		- Jazz 
+		- Trap 
+		- Punk 
+		- Rap 
+		- Techno 
+		- Flamenco 
+		- Country 
+		- Otro: 
+				- Si hacen clic en otro les aparecerá una barra donde podrán escribir el nombre del género que estén interesados
+
+- He leído y acepto los Términos de uso. (aparecerá un cuadrito al lado y tendrán que clicar encima para aceptar. Para ver que ya lo han aceptado aparecerá un tick dentro del cuadrito pequeño).
+		*NOTA:* Para registrarse es obligatorio aceptar los Términos de uso
+
+- Después de rellenar todos los campos (son obligatorios), hacer clic en Registrarse
+
+Una vez que hayan hecho clic en Registrarse, se les conducirá directamente a la página de login con una nota arriba de la página: 
+
+*NOTA:* Registro exitoso. Ingresa tus credenciales para acceder. 
+
+En este caso volverán a la página de login para acceder a su cuenta mediante el e-mail o el nombre de usuario y la contraseña.
 
 #### Ventajas de los usuarios registrados
 
