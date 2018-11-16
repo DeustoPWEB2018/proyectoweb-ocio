@@ -172,11 +172,11 @@ En este caso volverán a la página de login para acceder a su cuenta mediante e
 - Recibir noticias sobre los géneros musicales que hayan elegido los usuarios a la hora de registrarse
 
 	- Cada vez que se publique cualquier contenido relacionado con el género o géneros que hayan seleccionado al registrarse, se les mandará un e-mail con el siguiente mensaje.
-
-![contenido en redes sociales](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-estructura/3-estructura/Imágenes/contenido%20en%20redes%20sociales.jpg)
-
- 	- Si hacen clic en el enlace se les conducirá directamente al contenido que se haya publicado en la página.
-
+	
+	![contenido en redes sociales](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-estructura/3-estructura/Imágenes/contenido%20en%20redes%20sociales.jpg)
+	
+	- Si hacen clic en el enlace se les conducirá directamente al contenido que se haya publicado en la página.
+	
 - Opción a ver contenido más desarrollado 
 
  	- Esto no lo van a notar los usuarios porque una vez que ya se hayan registrado podrán navegar por todas las páginas de la web y les aparecerá siempre todo el contenido.
@@ -184,11 +184,11 @@ En este caso volverán a la página de login para acceder a su cuenta mediante e
 - Dejar comentarios debajo de nuestros contenidos. 
 
  	- Cuando dejen cualquier comentario, aparecerá ya escrito el nombre de usuario con el que se hayan registrado en la página web, de modo que no habrá mensajes anónimos. 
-
- ![dejar comentarios](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-estructura/3-estructura/Imágenes/dejar%20comentarios.jpg)
-
-  	- Cuando hagan clic en Comentar, aparecerá el comentario que han escrito con su nombre de usuario debajo del contenido a la que hayan accedido.
-
+	
+	 ![dejar comentarios](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-estructura/3-estructura/Imágenes/dejar%20comentarios.jpg)
+	 
+	- Cuando hagan clic en Comentar, aparecerá el comentario que han escrito con su nombre de usuario debajo del contenido a la que hayan accedido.
+  	
 - Compartir nuestros contenidos a través de las redes sociales. Tendrán la opción de poder compartirlo a través de Facebook o Twitter. 
 
  	- Debajo del contenido a la izquierda (antes de los comentarios) aparecerán los logos de Twitter y Facebook.
