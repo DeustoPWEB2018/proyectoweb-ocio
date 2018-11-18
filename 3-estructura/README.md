@@ -38,7 +38,7 @@ Las etiquetas del contenido que se les han ofrecido son los siguientes:
 
 #### Resultados
 Pueden verse los resultados obtenidos en la siguiente tabla. Los conceptos que están en horizontal con las categorías que los participantes crearon:
-
+! [Resultados](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodrie-estructura/3-estructura/Resultados.jpg)
 Vistos los resultados conseguidos gracias al card sorting, cabe destacar que no ha habido grandes discrepancias entre los resultados de las seis parejas participantes. Los resultados más llamativos son los siguientes:
 - Tendencia a especificar y dividir las noticias de actualidad en subcategorías. Sorprende la aparición de categorías como presentaciones, crónicas y noticias. Esto demuestra la tendencia a querer encontrar lo que se busca lo más rápido posible, sin perder el tiempo en leer contenidos que no interesan.
 - La tendencia a relacionar titulares informativos  con las noticias, y los titulares gancho con los reportajes. Los contenidos titulados diciendo explícitamente lo que cuenta el texto se perciben como noticias puras, y como reportajes los que tienen un titular abierto.
