@@ -47,4 +47,6 @@ Vistos los resultados conseguidos gracias al card sorting, cabe destacar que no 
 - La total relación que hacen los usuarios con la frase “lo más” y las listas. Al leer ese concepto  la mayoría de las parejas no dudó en crear una categoría llamada listas.
 
 ### Clasificación de contenidos
+### Diagrama
+![Diagrama](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodrie-estructura/3-estructura/diagrama.jpg?raw=true)
 ## Referencias
