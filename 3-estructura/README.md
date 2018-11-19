@@ -211,6 +211,35 @@ Vistos los resultados conseguidos gracias al card sorting, cabe destacar que no 
 - La total relación que hacen los usuarios con la frase “lo más” y las listas. Al leer ese concepto  la mayoría de las parejas no dudó en crear una categoría llamada listas.
 
 ### Clasificación de contenidos
+En base al Card Sorting que hemos realizado a un grupo de personas que encajan con las características de nuestro público objetivo, hemos decidido clasificar la información de nuestra página web de la siguiente manera:
+
+Clasificación cronológica: El esquema de clasificación seguirá un orden cronológico, ya que hemos observado que los usuarios se decantan por ordenar la información en base a una línea temporal que va de lo más reciente a lo más antiguo. 
+
+
+Clasificación por tema: Vamos a clasificar la  información en base a unos temas a los que nosotros llamaremos categorías, dentro de las cuales habrá subcategorías a modo de concretar más. De forma más específica, también utilizaremos etiquetas, que serán las palabras clave asociadas a un contenido concreto. 
+
+
+Las categorías que usaremos son las siguientes:
+
+- Actualidad (Noticias, Crónicas de conciertos y festivales, Crítica de CDs)
+
+- Reportajes
+
+- Entrevistas
+
+- Listas de canciones (Rock, Pop, Reggaeton, Electronica)
+
+- Videoclips 
+
+- Agenda
+
+
+El uso de las etiquetas, que se añadirán después de haber redactado el contenido, servirá para guiar al usuario al final de cada contenido que consuma.  Por ejemplo, si un usuario lee una noticia sobre un grupo de rock y ve la etiqueta “punk rock”, podrá enlazar la noticia que acaba de leer con cualquier otro contenido de la página que lleve esa misma etiqueta. 
+
+Jerarquía de arriba a abajo (anchas y superficiales): Este enfoque nos ha parecido el más adecuado ya que nos permite tener un esquema temático a la hora de redactar el contenido que mostraremos en la página web, además la mayoría de los usuarios prefieren tener las categorías en la página de inicio y que éstas puedan desplegarse mostrando las subcategorías. Las etiquetas se añadirán posteriormente, el redactor del contenido tendrá la opción de elegir aquellas que ya estén creadas o bien crear una nueva en base a las necesidades que presente dicho contenido. Éstas aparecerán solo al final del contenido, aunque el usuario podrá buscar la etiqueta en el buscador desde la página de inicio en caso de que ya sepa que quiere leer nada más entrar. Al final de cada contenido también aparecerán los iconos sociales de Twitter y Facebook. 
+
+
+Al final de la página de inicio, habrá un enlace a varias páginas estáticas con información de contacto, publicidad y  quienes somos. Al final del todo también aparecerán los derechos de la página, de su diseño y de su contenido.
 
 ### Diagrama
 ![Diagrama](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodrie-estructura/3-estructura/diagrama.jpg?raw=true)
