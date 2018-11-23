@@ -25,5 +25,7 @@ Eliminad o comentad (rodeando de `<!--` y `-->`) el texto entre las dos líneas 
 
 ## Participantes en el equipo
 
-- Apellidos, Nombre
-- ...
+- Juaristi Zabaleta, Ane
+- Odriozola Elizburu, Iñaki
+- Aranzabe Otaegi, Mikel
+- Neira, Fernandez, Leire
