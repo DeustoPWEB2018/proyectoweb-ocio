@@ -1,18 +1,4 @@
 # Plano de esqueleto
-## Diseño de la interfaz
-### Buscador
-#### Ejemplo NOTA: buscador
-### Acceso
-#### Si hacen clic en login
-#### Si hacen clic en ¿Has olvidado tu contraseña?
-#### Si hacen clic en Regístrate
-##### Recibir contenido vía email
-### Contenido
-#### Dejar comentarios
-### Listas de canciones
-#### Barra de reproducción
-### Agenda
-### Videoclips
 
 ## Diseño de la navegación (LEIRE)
 ### Pantalla de entrada
@@ -76,9 +62,18 @@ Cuando un usuario quiera cerrar sesión, tendrá que colocar el cursor sobre el 
 Si hacen clic en Entrar:
 
 Cuando el usuario hace clic en Entrar, las siguientes comprobaciones tienen lugar en el servidor:
-Si se había introducido la dirección de e-mail, pero que no era una dirección de e-mail real porque no tiene el formato correcto (no está el signo @ o contiene caracteres no permitidos en direcciones de e-mail), el servidor devuelve a la página del Formulario de entrada, sólo que esta vez, se inserta una barra de color roja con una nota debajo de las secciones. NOTA: "La dirección de e-mail que ha escrito no es válida. Por favor, compruébela otra vez". Aunque este texto está en una barra de color rojo, el texto "Por favor, introduzca su dirección de e-mail" aparecerá abajo de la barra roja en una barra de color verde. La dirección de e-mail incorrecta que el usuario había escrito originalmente aparecerá rellenando el cuadro de edición.
-Si se había introducido la dirección de e-mail, pero no corresponde a un miembro registrado, el servidor devuelve a la página del Formulario de entrada, sólo que esta vez, se inserta una nota de error en una barra roja que aparecerá debajo de las secciones. NOTA: "La dirección de e-mail que ha escrito no pertenece a un miembro. Por favor, compruebela otra vez. Para hacerse miembro, haga clic en el enlace de la parte derecha de la pantalla". Aunque este texto aparezca en una barra roja, el texto "Por favor, introduzca su dirección de e-mail" aparecerá en una barra verde debajo de la barra roja. La dirección de e-mail incorrecta que el usuario había escrito originalmente aparecerá rellenando el cuadro de edición. 
-Si se había introducido la dirección de e-mail, y corresponde a un miembro registrado, y se había introducido una contraseña, pero ésta es incorrecta, el servidor devuelve a la página del Formulario de entrada, sólo que esta vez, se inserta una nota de error en una barra roja que aparecerá debajo de las secciones. NOTA: "La contraseña que usted ha introducido no es válida. Por favor, compruébalo otra vez. Recuerde, en las contraseñas las mayúsculas y minúsculas son letras diferentes". Si la contraseña escrita no contiene ninguna letra minúscula, añadimos este texto al mensaje: NOTA: "Quizá ha pulsado usted la tecla de TODO MAYÚSCULAS accidentalmente". Siempre que la contraseña sea incorrecta, el Formulario de entrada vuelve a aparecer con el cuadro de contraseña vacío.
+Si se había introducido la dirección de e-mail, pero que no era una dirección de e-mail real porque no tiene el formato correcto (no está el signo @ o contiene caracteres no permitidos en direcciones de e-mail), el servidor devuelve a la página del Formulario de entrada, sólo que esta vez, se inserta una barra de color roja con una nota debajo de las secciones. 
+
+NOTA: "La dirección de e-mail que ha escrito no es válida. Por favor, compruébela otra vez". Aunque este texto está en una barra de color rojo, el texto "Por favor, introduzca su dirección de e-mail" aparecerá abajo de la barra roja en una barra de color verde. La dirección de e-mail incorrecta que el usuario había escrito originalmente aparecerá rellenando el cuadro de edición.
+
+Si se había introducido la dirección de e-mail, pero no corresponde a un miembro registrado, el servidor devuelve a la página del Formulario de entrada, sólo que esta vez, se inserta una nota de error en una barra roja que aparecerá debajo de las secciones. NOTA: "La dirección de e-mail que ha escrito no pertenece a un miembro. Por favor, compruebela otra vez. Para hacerse miembro, haga clic en el enlace de la parte derecha de la pantalla". Aunque este texto aparezca en una barra roja, el texto "Por favor, introduzca su dirección de e-mail" aparecerá en una barra verde debajo de la barra roja. La dirección de e-mail incorrecta que el usuario había escrito originalmente aparecerá rellenando el cuadro de edición.
+
+Si se había introducido la dirección de e-mail, y corresponde a un miembro registrado, y se había introducido una contraseña, pero ésta es incorrecta, el servidor devuelve a la página del Formulario de entrada, sólo que esta vez, se inserta una nota de error en una barra roja que aparecerá debajo de las secciones. 
+
+NOTA: "La contraseña que usted ha introducido no es válida. Por favor, compruébalo otra vez. Recuerde, en las contraseñas las mayúsculas y minúsculas son letras diferentes". Si la contraseña escrita no contiene ninguna letra minúscula, añadimos este texto al mensaje: 
+
+NOTA: "Quizá ha pulsado usted la tecla de TODO MAYÚSCULAS accidentalmente". Siempre que la contraseña sea incorrecta, el Formulario de entrada vuelve a aparecer con el cuadro de contraseña vacío.
+
 Si la dirección de e-mail y la contraseña están bien, se les cargará otra vez la página principal. En la parte donde aparecía la opción de “Acceso”, ahora aparecerá el icono de una personita y el nombre de usuario con el que el usuario está registrado. De esta manera, indica que ya está dentro de su cuenta de Musikamania. Ahora sí, una vez registrados, pueden navegar libremente y tienen el acceso permitido a todos los contenidos publicados en la página web. Además también contarán con la opción de poder escuchar las canciones que aparecen en las listas.  
 
 Si hacen clic en ¿Has olvidado tu contraseña?
@@ -125,6 +120,7 @@ Usa las nuevas credenciales en la página de login: https://www.musikamania.com/
 Cuando hagan clic en el enlace, irán directamente a la página de login de Musikamania.com
 
 Si hacen clic en regístrate:
+
 Si el usuario no está registrado y hace clic en “registrarse ahora”, le aparecerá un formulario de entrada con los siguientes campos de texto:
 Nombre y dos apellidos
 Nombre de usuario
@@ -242,6 +238,7 @@ Esta nota aparecerá debajo de las secciones en una barra de color rojo. El colo
 
 Las personas registradas, cuando hagan clic encima del play de cualquier canción, ésta se reproducirá automáticamente y aparecerá una barra de reproducción abajo de la página para indicar lo siguiente:
 Se está reproduciendo la canción y su duración. Si hacen clic encima del logo de pausa (II), se parará automáticamente y el logo se cambiará a la de reproducir (punta de la flecha).
+
 En la duración de la canción, aparecerá una línea en la que se observará el tiempo de la canción. En el extremo izquierdo aparecerá escrito 00.00 y, a medida que la canción avance, se irán añadiendo los segundos y minutos. Sobre la línea temporal aparecerá un botón para saber que parte de la canción se ha escuchado y por donde va. A medida que la rueda avance, la parte que ya se ha transcurrido cambiará a color blanco. En el extremo derecho siempre aparecerá la duración de la canción. 
 Aunque los usuarios sigan navegando en la página web la barra de reproductor seguirá apareciendo siempre abajo de la página. Si los usuarios quieren quitar la barra de reproducción, tendrán un X a la derecha de la barra de reproductor y si hacen clic encima del X la barra de reproducción desaparecerá.
 
@@ -284,8 +281,6 @@ Los vídeos se cogerán de la plataforma Youtube, de modo que nosotros tan solo 
 Los vídeos se mostrarán siguiendo una jerarquía que responde a un orden cronológico desde lo más reciente, a lo más antiguo. La idea, es que cada día se añada un videoclip nuevo por sección, a modo de que la sección esté constantemente ofreciendo nuevo contenido e incite al usuario a navegar por la misma. 
 
 Respecto a lo que el usuario observará, éste verá el título del vídeo, la caja con el vídeo y, debajo de éste, un pequeño párrafo con información más detallada sobre él; podría ser una presentación del vídeo con una anécdota, por ejemplo. Al final de cada párrafo, el usuario observará las etiquetas que se han utilizado para categorizar el vídeo dentro de la página, a modo de relacionarlo con contenido similar. También habrá iconos sociales para que el usuario, no sólo comparta el vídeo, sino que también comparta nuestras aportaciones. 
-
-
 
 ## Diseño de la información (IÑAKI)
 ## Wireframes (MIKEL)
