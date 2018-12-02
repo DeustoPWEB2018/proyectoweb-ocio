@@ -31,20 +31,20 @@ Los contenidos publicados en la web estarán etiquetados de la siguiente manera 
 		- Country
 
 - Tags para clasificar el tipo de contenido:
-		- Noticia
-		- Última hora
-		- Crónica
-		- Fallecimiento
-		- Presentación
-		- Concierto
-		- Festival
-		- Entrevista
-		- Reportaje
-		- Nacional
-		- Internacional
-		- Lista
-		- Lo mejor
-		- Más escuchado
-		- Crítica
+	- Noticia
+	- Última hora
+	- Crónica
+	- Fallecimiento
+	- Presentación
+	- Concierto
+	- Festival
+	- Entrevista
+	- Reportaje
+	- Nacional
+	- Internacional
+	- Lista
+	- Lo mejor
+	- Más escuchado
+	- Crítica
 
 ## Referencias
