@@ -1,42 +1,27 @@
 # Plano de esqueleto
 ## Diseño de la interfaz
 ### Buscador
-![Barra buscador](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Barra%20buscador.jpg)
 #### Ejemplo NOTA: buscador
-![Ejemplo de NOTA-ERROR004](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Ejemplo%20de%20NOTA-ERROR004.jpg)
-
 ### Acceso
 #### Si hacen clic en login
-![Si hacen clic en login](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Si%20hacen%20clic%20en%20login.jpg)
-
 #### Si hacen clic en ¿Has olvidado tu contraseña?
-![Restablecer constraseña](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Restablecer%20contraseña.jpg)
-
-![Mensaje 1](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Mensaje%201.png)
-![Mensaje 2](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Mensaje%202.png)
-
 #### Si hacen clic en Regístrate
-![Registro005](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Registro005.jpg)
-
 ##### Recibir contenido vía email
-![Recibir contenido vía email](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Recibir%20contenido%20v%C3%ADa%20email.png)
-
 ### Contenido
-![Ejemplo contenido001](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Ejemplo%20contenido001.jpg)
 #### Dejar comentarios
-![Dejar un comentario](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Dejar%20un%20comentario.jpg)
-
 ### Listas de canciones
 #### Barra de reproducción
-![Barra de reproducción002](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Barra%20de%20reproducción002.jpg)
-
 ### Agenda
-![Agenda003](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Agenda003.jpg)
-
 ### Videoclips
-![videoclips](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Ejemplo%20contenido001.jpg)
 
 ## Diseño de la navegación (LEIRE)
+### Pantalla de entrada
+
+En nuestra página web de Musikamania, en la pantalla de entrada aparecerá únicamente un anuncio cada vez que el usuario entre en ella. Para ser más exactos, el anuncio tendrá una duración de 20 segundos, que tras 10 segundos del anuncio, aparecerá la opción de “Skip ad”, para aquellos que quieran quitar el anuncio y entrar en la página principal de nuestra web, pero también los usuarios tendrán la posibilidad de permanecer en el anuncio si es de su interés.
+
+Hay que dejar claro, que el anuncio de la pantalla de entrada les aparecerá a todas las personas que entren en la página web de Musikamania, tanto si están registradas en la web, como si no lo están.  
+
+Cuando haga clic en “Skip ad” se le dirigirá a la página principal de Musikamania.com
 
 ### CONTACTO
 
@@ -53,14 +38,23 @@ Patrocinadores: el enlace llevará a la lista de los patrocinadores que apoyan e
 
 Aunque la barra de navegación superior y la barra de contacto aparezcan en todas las páginas de Musikamania, el contenido que aparecerá en medio de las dos barras cambiará según las secciones que visiten los usuarios.
 
-### BUSCADOR
-
+### Buscador
 Se empleará una etiqueta en modo de icono para que el usuario sepa que esa barra trata del buscador. Aparece el icono de una lupa y al lado una barra de texto para que los usuarios escriban lo que quieran.
 Si escriben cualquier letra, número o palabra que contenga cualquier contenido que esté publicado en la página web y hacen clic en el icono de la lupa aparecerán el título, autor y fecha de cada publicación ordenados en una lista cronológicamente, del más actual al que más tiempo tiene. 
 Si escriben cualquier letra, número o palabra que no aparezca en ninguno de los contenidos publicados en la página web, cuando hagan clic en el icono de la lupa les aparecerá una nota:
 
 NOTA: No hemos encontrado resultados para tu búsqueda
 Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que ha habido un error.
+*Todas las notas aparecerán como este ejemplo, lo que cambiará es el color de la barra, que puede ser roja o verde.
+
+
+MUSIKAMANIA.COM (LOGO)
+ACCESO
+SECCIONES
+Lupa I Campo de texto
+
+
+No hemos encontrado resultados para tu búsqueda
 
 Historial: Todos las búsquedas que los usuarios realicen, independientemente de si están registrados o no, quedarán registrados en un historial de búsqueda a modo de que nosotros podamos  observar las necesidades de los usuarios y las carencias de nuestra página. 
 
@@ -94,6 +88,8 @@ NOTA: Escribe la dirección de correo electrónico que usaste para registrarte y
 Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que tiene que seguir ese paso para poder realizar lo que el usuario quiere, en este caso, restablecer la contraseña.
 
 Email
+
+
 
 Restablecer contraseña
 
@@ -187,6 +183,21 @@ En este caso volverán a la página de login para acceder a su cuenta mediante e
 Los usuarios registrados tendrán la opción a ver contenido más desarrollado que los usuarios no registrados no tienen acceso.
 Esto no lo van a notar los usuarios porque una vez que ya se hayan registrado podrán navegar por todas las páginas de la web y les aparecerá siempre todo el contenido.
 
+### SECCIONES
+
+Sistema de etiquetado
+Barra de navegación horizontal superior:
+Inicio
+Actualidad
+Reportajes
+Entrevistas
+Videoclips
+Agenda
+Barra horizontal inferior:
+Conócenos
+Contacto
+Patrocinadores
+
 ### CONTENIDO
 
 Página principal
@@ -214,11 +225,9 @@ Cuando dejen cualquier comentario, aparecerá ya escrito el nombre de usuario co
 Nombre del usuario
 Comentario
 
-Comentar
+- Comentar
 
 Cuando hagan clic en Comentar, aparecerá el comentario que han escrito con su nombre de usuario debajo del contenido al que hayan accedido.
-
-
 
 ### LISTAS DE CANCIONES
 
@@ -236,6 +245,12 @@ Se está reproduciendo la canción y su duración. Si hacen clic encima del logo
 En la duración de la canción, aparecerá una línea en la que se observará el tiempo de la canción. En el extremo izquierdo aparecerá escrito 00.00 y, a medida que la canción avance, se irán añadiendo los segundos y minutos. Sobre la línea temporal aparecerá un botón para saber que parte de la canción se ha escuchado y por donde va. A medida que la rueda avance, la parte que ya se ha transcurrido cambiará a color blanco. En el extremo derecho siempre aparecerá la duración de la canción. 
 Aunque los usuarios sigan navegando en la página web la barra de reproductor seguirá apareciendo siempre abajo de la página. Si los usuarios quieren quitar la barra de reproducción, tendrán un X a la derecha de la barra de reproductor y si hacen clic encima del X la barra de reproducción desaparecerá.
 
+                                                                                                                                         X
+
+NOMBRE DE LA CANCIÓN
+Nombre del artista o grupo
+
+I I     BARRA DE DURACIÓN
 
 ### AGENDA
 
@@ -260,7 +275,6 @@ ACONTECIMIENTO 3
 Fecha   Hora
 Foto
 
-
 ### VIDEOCLIPS
 
 En la sección “Videoclips”, el usuario encontrará una selección de vídeos musicales que nosotros habremos escogido previamente. Nuestros criterios a la hora de seleccionarlos no solo responden a la popularidad de los vídeos o a la de los artistas que lo interpretan, sino que también valoramos su originalidad y calidad artística, así como aquello que creamos interesante para nuestros visitantes, ya que son personas con un perfil curioso, pero también exigente. 
@@ -270,6 +284,7 @@ Los vídeos se cogerán de la plataforma Youtube, de modo que nosotros tan solo 
 Los vídeos se mostrarán siguiendo una jerarquía que responde a un orden cronológico desde lo más reciente, a lo más antiguo. La idea, es que cada día se añada un videoclip nuevo por sección, a modo de que la sección esté constantemente ofreciendo nuevo contenido e incite al usuario a navegar por la misma. 
 
 Respecto a lo que el usuario observará, éste verá el título del vídeo, la caja con el vídeo y, debajo de éste, un pequeño párrafo con información más detallada sobre él; podría ser una presentación del vídeo con una anécdota, por ejemplo. Al final de cada párrafo, el usuario observará las etiquetas que se han utilizado para categorizar el vídeo dentro de la página, a modo de relacionarlo con contenido similar. También habrá iconos sociales para que el usuario, no sólo comparta el vídeo, sino que también comparta nuestras aportaciones. 
+
 
 
 ## Diseño de la información (IÑAKI)
