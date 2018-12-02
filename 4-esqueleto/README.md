@@ -6,7 +6,7 @@ Los contenidos publicados en la web estarán etiquetados de la siguiente manera 
 	- Autor del contenido
 	- Nombres propios de grupos y festivales
 
--Tags:
+- Tags:
 	- Autor del contenido
 	- Época del músico o grupo del que trata el contenido
 		- 1970s
