@@ -26,6 +26,7 @@ Patrocinadores: el enlace llevará a la lista de los patrocinadores que apoyan e
 Aunque la barra de navegación superior y la barra de contacto aparezcan en todas las páginas de Musikamania, el contenido que aparecerá en medio de las dos barras cambiará según las secciones que visiten los usuarios.
 
 ### Buscador
+
 Se empleará una etiqueta en modo de icono para que el usuario sepa que esa barra trata del buscador. Aparece el icono de una lupa y al lado una barra de texto para que los usuarios escriban lo que quieran.
 Si escriben cualquier letra, número o palabra que contenga cualquier contenido que esté publicado en la página web y hacen clic en el icono de la lupa aparecerán el título, autor y fecha de cada publicación ordenados en una lista cronológicamente, del más actual al que más tiempo tiene. 
 Si escriben cualquier letra, número o palabra que no aparezca en ninguno de los contenidos publicados en la página web, cuando hagan clic en el icono de la lupa les aparecerá una nota:
@@ -41,16 +42,23 @@ Cuando hacen clic en acceso les aparecerá una barra con dos opciones: login y r
 
 Si hacen clic en login:
 
-Si hacen clic en la casilla de verificación de Recuérdame se guardarán automaticamente el nombre de usuario y la contraseña. Cada vez que accedan a la página ya estarán directamente dentro de sus cuentas. Eso estará indicado arriba a la derecha, en vez de poner acceso, aparecerá el icono de un usuario y el nombre de usuario con el que esté registrado.
-Para asegurarse que han hecho clic en Recuérdame, aparecerá un tick dentro de la casilla de verificación.
-Cuando un usuario quiera cerrar sesión, tendrá que colocar el cursor sobre el icono  con forma de persona que le aparece en la parte superior para que le aparezca la opción de cerrar sesión. 
+Si hacen clic en la casilla de verificación de Recuérdame se guardarán automaticamente el nombre de usuario y la contraseña. Cada vez que accedan a la página ya estarán directamente dentro de sus cuentas. Eso estará indicado arriba a la derecha, en vez de poner acceso, aparecerá el icono de un usuario y el nombre de usuario con el que esté registrado. Para asegurarse que han hecho clic en Recuérdame, aparecerá un tick dentro de la casilla de verificación. Cuando un usuario quiera cerrar sesión, tendrá que colocar el cursor sobre el icono  con forma de persona que le aparece en la parte superior para que le aparezca la opción de cerrar sesión. 
 
 Si hacen clic en Entrar:
 
 Cuando el usuario hace clic en Entrar, las siguientes comprobaciones tienen lugar en el servidor:
+
 Si se había introducido la dirección de e-mail, pero que no era una dirección de e-mail real porque no tiene el formato correcto (no está el signo @ o contiene caracteres no permitidos en direcciones de e-mail), el servidor devuelve a la página del Formulario de entrada, sólo que esta vez, se inserta una barra de color roja con una nota debajo de las secciones. NOTA: "La dirección de e-mail que ha escrito no es válida. Por favor, compruébela otra vez". Aunque este texto está en una barra de color rojo, el texto "Por favor, introduzca su dirección de e-mail" aparecerá abajo de la barra roja en una barra de color verde. La dirección de e-mail incorrecta que el usuario había escrito originalmente aparecerá rellenando el cuadro de edición.
-Si se había introducido la dirección de e-mail, pero no corresponde a un miembro registrado, el servidor devuelve a la página del Formulario de entrada, sólo que esta vez, se inserta una nota de error en una barra roja que aparecerá debajo de las secciones. NOTA: "La dirección de e-mail que ha escrito no pertenece a un miembro. Por favor, compruebela otra vez. Para hacerse miembro, haga clic en el enlace de la parte derecha de la pantalla". Aunque este texto aparezca en una barra roja, el texto "Por favor, introduzca su dirección de e-mail" aparecerá en una barra verde debajo de la barra roja. La dirección de e-mail incorrecta que el usuario había escrito originalmente aparecerá rellenando el cuadro de edición. 
-Si se había introducido la dirección de e-mail, y corresponde a un miembro registrado, y se había introducido una contraseña, pero ésta es incorrecta, el servidor devuelve a la página del Formulario de entrada, sólo que esta vez, se inserta una nota de error en una barra roja que aparecerá debajo de las secciones. NOTA: "La contraseña que usted ha introducido no es válida. Por favor, compruébalo otra vez. Recuerde, en las contraseñas las mayúsculas y minúsculas son letras diferentes". Si la contraseña escrita no contiene ninguna letra minúscula, añadimos este texto al mensaje: NOTA: "Quizá ha pulsado usted la tecla de TODO MAYÚSCULAS accidentalmente". Siempre que la contraseña sea incorrecta, el Formulario de entrada vuelve a aparecer con el cuadro de contraseña vacío.
+
+Si se había introducido la dirección de e-mail, pero no corresponde a un miembro registrado, el servidor devuelve a la página del Formulario de entrada, sólo que esta vez, se inserta una nota de error en una barra roja que aparecerá debajo de las secciones. 
+NOTA: "La dirección de e-mail que ha escrito no pertenece a un miembro. Por favor, compruebela otra vez. Para hacerse miembro, haga clic en el enlace de la parte derecha de la pantalla". 
+Aunque este texto aparezca en una barra roja, el texto "Por favor, introduzca su dirección de e-mail" aparecerá en una barra verde debajo de la barra roja. La dirección de e-mail incorrecta que el usuario había escrito originalmente aparecerá rellenando el cuadro de edición.
+
+Si se había introducido la dirección de e-mail, y corresponde a un miembro registrado, y se había introducido una contraseña, pero ésta es incorrecta, el servidor devuelve a la página del Formulario de entrada, sólo que esta vez, se inserta una nota de error en una barra roja que aparecerá debajo de las secciones. 
+
+NOTA: "La contraseña que usted ha introducido no es válida. Por favor, compruébalo otra vez. Recuerde, en las contraseñas las mayúsculas y minúsculas son letras diferentes". Si la contraseña escrita no contiene ninguna letra minúscula, añadimos este texto al mensaje: 
+NOTA: "Quizá ha pulsado usted la tecla de TODO MAYÚSCULAS accidentalmente". Siempre que la contraseña sea incorrecta, el Formulario de entrada vuelve a aparecer con el cuadro de contraseña vacío.
+
 Si la dirección de e-mail y la contraseña están bien, se les cargará otra vez la página principal. En la parte donde aparecía la opción de “Acceso”, ahora aparecerá el icono de una personita y el nombre de usuario con el que el usuario está registrado. De esta manera, indica que ya está dentro de su cuenta de Musikamania. Ahora sí, una vez registrados, pueden navegar libremente y tienen el acceso permitido a todos los contenidos publicados en la página web. Además también contarán con la opción de poder escuchar las canciones que aparecen en las listas.  
 
 Si hacen clic en ¿Has olvidado tu contraseña?
@@ -88,7 +96,9 @@ Cada género musical tendrá una casilla de verificación y el usuario tendrá q
 Si hacen clic en el enlace se les conducirá directamente al contenido que se haya publicado en la página.
 
 He leído y acepto los Términos de uso. (estará indicado con una casilla de verificación donde tendrán que clicar encima para aceptar. Para ver que ya lo han aceptado aparecerá un tick dentro de la casilla).
+
 Si hacen clic en Registrarse sin haber rellenado la casilla de verificación de los términos de uso les aparecerá una nota debajo de las secciones en una barra roja.
+
 NOTA: Para registrarse es obligatorio aceptar los Términos de uso. 
 Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que es necesario seguir ese paso para poder realizar bien el formulario.
 
@@ -163,8 +173,8 @@ Esta nota aparecerá debajo de las secciones en una barra de color rojo. El colo
 
 Las personas registradas, cuando hagan clic encima del play de cualquier canción, ésta se reproducirá automáticamente y aparecerá una barra de reproducción abajo de la página para indicar lo siguiente:
 Se está reproduciendo la canción y su duración. Si hacen clic encima del logo de pausa (II), se parará automáticamente y el logo se cambiará a la de reproducir (punta de la flecha).
-En la duración de la canción, aparecerá una línea en la que se observará el tiempo de la canción. En el extremo izquierdo aparecerá escrito 00.00 y, a medida que la canción avance, se irán añadiendo los segundos y minutos. Sobre la línea temporal aparecerá un botón para saber que parte de la canción se ha escuchado y por donde va. A medida que la rueda avance, la parte que ya se ha transcurrido cambiará a color blanco. En el extremo derecho siempre aparecerá la duración de la canción. 
-Aunque los usuarios sigan navegando en la página web la barra de reproductor seguirá apareciendo siempre abajo de la página. Si los usuarios quieren quitar la barra de reproducción, tendrán un X a la derecha de la barra de reproductor y si hacen clic encima del X la barra de reproducción desaparecerá.
+
+En la duración de la canción, aparecerá una línea en la que se observará el tiempo de la canción. En el extremo izquierdo aparecerá escrito 00.00 y, a medida que la canción avance, se irán añadiendo los segundos y minutos. Sobre la línea temporal aparecerá un botón para saber que parte de la canción se ha escuchado y por donde va. A medida que la rueda avance, la parte que ya se ha transcurrido cambiará a color blanco. En el extremo derecho siempre aparecerá la duración de la canción. Aunque los usuarios sigan navegando en la página web la barra de reproductor seguirá apareciendo siempre abajo de la página. Si los usuarios quieren quitar la barra de reproducción, tendrán un X a la derecha de la barra de reproductor y si hacen clic encima del X la barra de reproducción desaparecerá.
 
                                                                                                                                         
 ### AGENDA
