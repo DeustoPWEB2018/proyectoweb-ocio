@@ -30,7 +30,7 @@ Los contenidos publicados en la web estarán etiquetados de la siguiente manera 
 		- Flamenco
 		- Country
 
-Según el tipo de contenido:
+- Tags para clasificar el tipo de contenido:
 		- Noticia
 		- Última hora
 		- Crónica
