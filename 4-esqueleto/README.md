@@ -2,10 +2,16 @@
 
 ## Wireframes
 
-![entrada](/4-esqueleto/entrada.jpg)
+### Página de entrada
 
-![principal](/4-esqueleto/principal.jpg)
+![entrada](/4-esqueleto/imagenes/entrada.jpg)
 
-![plantilla](/4-esqueleto/plantilla.jpg)
+### Página principal
+
+![principal](/4-esqueleto/imagenes/principal.jpg)
+
+### Plantilla de todas las páginas
+
+![plantilla](/4-esqueleto/imagenes/plantilla.jpg)
 
 ## Referencias
