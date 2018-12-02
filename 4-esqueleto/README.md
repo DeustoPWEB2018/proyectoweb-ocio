@@ -1,7 +1,7 @@
 # Plano de esqueleto
 ## Diseño de la interfaz
 ### Buscador
-## Diseño de la navegación (LEIRE)
+## Diseño de la navegación 
 ### Pantalla de entrada
 
 En nuestra página web de Musikamania, en la pantalla de entrada aparecerá únicamente un anuncio cada vez que el usuario entre en ella. Para ser más exactos, el anuncio tendrá una duración de 20 segundos, que tras 10 segundos del anuncio, aparecerá la opción de “Skip ad”, para aquellos que quieran quitar el anuncio y entrar en la página principal de nuestra web, pero también los usuarios tendrán la posibilidad de permanecer en el anuncio si es de su interés.
@@ -34,27 +34,12 @@ NOTA: No hemos encontrado resultados para tu búsqueda
 Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que ha habido un error.
 *Todas las notas aparecerán como este ejemplo, lo que cambiará es el color de la barra, que puede ser roja o verde.
 
-
-MUSIKAMANIA.COM (LOGO)
-ACCESO
-SECCIONES
-Lupa I Campo de texto
-
-
-No hemos encontrado resultados para tu búsqueda
-
 Historial: Todos las búsquedas que los usuarios realicen, independientemente de si están registrados o no, quedarán registrados en un historial de búsqueda a modo de que nosotros podamos  observar las necesidades de los usuarios y las carencias de nuestra página. 
 
 ### ACCESO
 Cuando hacen clic en acceso les aparecerá una barra con dos opciones: login y regístrate.
 
 Si hacen clic en login:
-E-mail o nombre de usuario	
-Contraseña:
-Recuérdame 
-
-Entrar
-¿Ha olvidado su contraseña? 
 
 Si hacen clic en la casilla de verificación de Recuérdame se guardarán automaticamente el nombre de usuario y la contraseña. Cada vez que accedan a la página ya estarán directamente dentro de sus cuentas. Eso estará indicado arriba a la derecha, en vez de poner acceso, aparecerá el icono de un usuario y el nombre de usuario con el que esté registrado.
 Para asegurarse que han hecho clic en Recuérdame, aparecerá un tick dentro de la casilla de verificación.
@@ -74,82 +59,31 @@ Se les conducirá a una página donde se les pida su correo electrónico y una n
 NOTA: Escribe la dirección de correo electrónico que usaste para registrarte y te enviaremos las instrucciones para restablecer tu contraseña.  
 Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que tiene que seguir ese paso para poder realizar lo que el usuario quiere, en este caso, restablecer la contraseña.
 
-Email
-
-
-
-Restablecer contraseña
-
 Cuando hayan escrito su correo electrónico y hagan clic en restablecer contraseña, se les indicará que: 
 
 NOTA: Te hemos enviado un correo con los pasos para regenerar tu contraseña
 Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que tiene que seguir ese paso para poder realizar lo que el usuario quiere, en este caso, restablecer la contraseña.
-
-El mensaje del e-mail que reciban en su correo será el siguiente:
-Musikamania
-para mí
-
-Alguien ha solicitado regenerar la clave de acceso para Musikamania.com:
-Nombre de usuario: nombre de usuario con el que se haya registrado
-Si fue un error simplemente ignora este email y no habrá cambios en tu cuenta.
-Para regenerar la clave pincha en el siguiente enlace:
-https://www.musikamania.com/remember/?action=reset_pwd&key=JP6Fyo6INTV2s9Zc3fSL&login=nombredeusuario
- 
-Cuando hagan clic en el enlace, irán directamente a la página de login y aparecerá una nota arriba de la página:
  
 NOTA: Email verificado. Le hemos enviado un nuevo correo con las nuevas indicaciones para acceder a Musikamania.com 
 Esta nota aparecerá debajo de las secciones en una barra de color verde. El color verde muestra que ya ha logrado verificar el e-mail.
  
-El mensaje del e-mail que reciban en su correo será el siguiente:
-Musikamania
-para mí
-
-Esta es tu nueva clave:
-Nombre de usuario: nombre de usuario con el que se haya registrado
-Password: QxKYIMk (ejemplo de la nueva clave)
-Usa las nuevas credenciales en la página de login: https://www.musikamania.com/login
-
-Cuando hagan clic en el enlace, irán directamente a la página de login de Musikamania.com
-
 Si hacen clic en regístrate:
-Si el usuario no está registrado y hace clic en “registrarse ahora”, le aparecerá un formulario de entrada con los siguientes campos de texto:
-Nombre y dos apellidos
-Nombre de usuario
-E-mail
-Contraseña
-Repita la contraseña
-País (estará directamente puesto España, si son de aquí no tendrán que hacer nada, si no son de España tendrán que buscar su país)
+Si el usuario no está registrado y hace clic en “registrarse ahora”, le aparecerá un formulario de entrada.
+
+- País (estará directamente puesto España, si son de aquí no tendrán que hacer nada, si no son de España tendrán que buscar su país)
 Si eligen España también se les preguntará por la provincia y la localidad. Si ponen algún otro país que no sea España, en el momento que hagan clic en el país van a desaparecer los campos de provincia y localidad.
-Provincia (aparecerán todas las provincias de España en una barra y tendrán que hacer clic en la suya)
-Localidad (según la provincia que elijan les aparecerán todos los municipios de esta provincia en una barra y tendrán que hacer clic en la suya.
+- Provincia (aparecerán todas las provincias de España en una barra y tendrán que hacer clic en la suya)
+- Localidad (según la provincia que elijan les aparecerán todos los municipios de esta provincia en una barra y tendrán que hacer clic en la suya.
 Cuando ponen su municipio aparecerá directamente el código postal 
 Año de nacimiento (aparecerán todos los años empezando desde el 2000 en una barra)
 Sexo (aparecerán hombre y mujer en una barra)
 
 Por otro lado, también se les preguntará: 
 ¿De qué géneros te gustaría recibir noticias?
-Música clásica  
-Rock 
-Pop 
-Reggaetón 
-Jazz 
-Trap 
-Punk 
-Rap 
-Techno 
-Flamenco 
-Country 
-Otro: 
+
 Si hacen clic en Otro les aparecerá un cuadro de texto donde podrán escribir el nombre del género que estén interesados
 
 Cada género musical tendrá una casilla de verificación y el usuario tendrá que marcar alguno si tiene especial interés en ello. En el caso de que hayan elegido algún/os género/s musical/es, cada vez que se publique cualquier contenido relacionado con el género o géneros que hayan seleccionado al registrarse, se les mandará un e-mail con el siguiente mensaje.
-
-Musikamania
-para mí
-
-TÍTULO DEL CONTENIDO
-
-Enlace directo al contenido
 
 Si hacen clic en el enlace se les conducirá directamente al contenido que se haya publicado en la página.
 
@@ -232,13 +166,7 @@ Se está reproduciendo la canción y su duración. Si hacen clic encima del logo
 En la duración de la canción, aparecerá una línea en la que se observará el tiempo de la canción. En el extremo izquierdo aparecerá escrito 00.00 y, a medida que la canción avance, se irán añadiendo los segundos y minutos. Sobre la línea temporal aparecerá un botón para saber que parte de la canción se ha escuchado y por donde va. A medida que la rueda avance, la parte que ya se ha transcurrido cambiará a color blanco. En el extremo derecho siempre aparecerá la duración de la canción. 
 Aunque los usuarios sigan navegando en la página web la barra de reproductor seguirá apareciendo siempre abajo de la página. Si los usuarios quieren quitar la barra de reproducción, tendrán un X a la derecha de la barra de reproductor y si hacen clic encima del X la barra de reproducción desaparecerá.
 
-                                                                                                                                         X
-
-NOMBRE DE LA CANCIÓN
-Nombre del artista o grupo
-
-I I     BARRA DE DURACIÓN
-
+                                                                                                                                        
 ### AGENDA
 
 En la página de inicio, debajo de las listas de reproducción, aparecerán las primeras cinco entradas de la agenda, ordenadas en prioridad por fecha, de lo más inmediato a lo más alejado en el tiempo; el usuario podrá ver el título del acontecimiento, la fecha y la hora de comienzo en la que se va a celebrar y una foto si la hubiera.
@@ -246,21 +174,6 @@ En la página de inicio, debajo de las listas de reproducción, aparecerán las 
 La agenda es una sección dentro de la web, es decir, tiene su propia página, por lo que si un usuario hace clic en el título “Agenda”, se le enviará a la página en la que se encuentran todas las entradas relacionadas con esta sección. Primero aparecerán los cinco primeros acontecimientos que aparecen en la página principal seguidos de futuros acontecimientos. La forma en la que se mostrará el contenido será en Scroll infinito; esto significa que  el usuario verá todos los acontecimientos a medida que vaya descendiendo, en orden cronológico de lo más reciente a lo más próximo. Los acontecimientos que ya se hayan celebrado se eliminarán automáticamente de la lista.
 
 Todos los usuarios, independientemente de si están registrados o no, podrán acceder a los contenidos que se muestran en la agenda. 
-
-AGENDA
-
-
-ACONTECIMIENTO 1
-Fecha   Hora
-Foto
-
-ACONTECIMIENTO 2
-Fecha   Hora
-Foto
-
-ACONTECIMIENTO 3
-Fecha   Hora
-Foto
 
 ### VIDEOCLIPS
 
@@ -271,8 +184,6 @@ Los vídeos se cogerán de la plataforma Youtube, de modo que nosotros tan solo 
 Los vídeos se mostrarán siguiendo una jerarquía que responde a un orden cronológico desde lo más reciente, a lo más antiguo. La idea, es que cada día se añada un videoclip nuevo por sección, a modo de que la sección esté constantemente ofreciendo nuevo contenido e incite al usuario a navegar por la misma. 
 
 Respecto a lo que el usuario observará, éste verá el título del vídeo, la caja con el vídeo y, debajo de éste, un pequeño párrafo con información más detallada sobre él; podría ser una presentación del vídeo con una anécdota, por ejemplo. Al final de cada párrafo, el usuario observará las etiquetas que se han utilizado para categorizar el vídeo dentro de la página, a modo de relacionarlo con contenido similar. También habrá iconos sociales para que el usuario, no sólo comparta el vídeo, sino que también comparta nuestras aportaciones. 
-
-
 
 ## Diseño de la información (IÑAKI)
 ## Wireframes (MIKEL)
