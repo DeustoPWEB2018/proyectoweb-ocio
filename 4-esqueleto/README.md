@@ -4,14 +4,14 @@
 
 ### Página de entrada
 
-![entrada](/4-esqueleto/imagenes/entrada.jpg)
+![entrada](/4-esqueleto/Imagenes/entrada.jpg)
 
 ### Página principal
 
-![principal](/4-esqueleto/imagenes/principal.jpg)
+![principal](/4-esqueleto/Imagenes/principal.jpg)
 
 ### Plantilla de todas las páginas
 
-![plantilla](/4-esqueleto/imagenes/plantilla.jpg)
+![plantilla](/4-esqueleto/Imagenes/plantilla.jpg)
 
 ## Referencias
