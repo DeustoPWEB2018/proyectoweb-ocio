@@ -7,8 +7,6 @@ Los contenidos publicados en la web estarán etiquetados de la siguiente manera 
 	- Nombres propios de grupos y festivales
 
 -Tags:
-
-Aparecerán en todos los contenidos:
 	- Autor del contenido
 	- Época del músico o grupo del que trata el contenido
 		- 1970s
@@ -31,7 +29,8 @@ Aparecerán en todos los contenidos:
 		- Techno
 		- Flamenco
 		- Country
-	- Según el tipo de contenido:
+
+Según el tipo de contenido:
 		- Noticia
 		- Última hora
 		- Crónica
