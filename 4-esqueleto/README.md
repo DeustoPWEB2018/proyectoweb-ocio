@@ -226,6 +226,3 @@ Respecto a lo que el usuario observará, éste verá el título del vídeo, la c
 ![videoclips](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Ejemplo%20contenido001.jpg)
 
 
-
-
-## Referencias
