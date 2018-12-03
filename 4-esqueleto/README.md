@@ -33,6 +33,7 @@ Si escriben cualquier letra, número o palabra que no aparezca en ninguno de los
 
 #### Ejemplo NOTA: buscador
 ![Ejemplo de NOTA-ERROR004](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Ejemplo%20de%20NOTA-ERROR004.jpg)
+
 NOTA: No hemos encontrado resultados para tu búsqueda
 Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que ha habido un error.
 *Todas las notas aparecerán como este ejemplo, lo que cambiará es el color de la barra, que puede ser roja o verde.
@@ -41,10 +42,11 @@ Esta nota aparecerá debajo de las secciones en una barra de color rojo. El colo
 Historial: Todos las búsquedas que los usuarios realicen, independientemente de si están registrados o no, quedarán registrados en un historial de búsqueda a modo de que nosotros podamos  observar las necesidades de los usuarios y las carencias de nuestra página. 
 
 ### Acceso
-#### Si hacen clic en login
-![Si hacen clic en login](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Si%20hacen%20clic%20en%20login.jpg)
 
 Cuando hacen clic en acceso les aparecerá una barra con dos opciones: login y regístrate.
+
+#### Si hacen clic en login
+![Si hacen clic en login](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Si%20hacen%20clic%20en%20login.jpg)
 
 Si hacen clic en la casilla de verificación de Recuérdame se guardarán automaticamente el nombre de usuario y la contraseña. Cada vez que accedan a la página ya estarán directamente dentro de sus cuentas. Eso estará indicado arriba a la derecha, en vez de poner acceso, aparecerá el icono de un usuario y el nombre de usuario con el que esté registrado.
 Para asegurarse que han hecho clic en Recuérdame, aparecerá un tick dentro de la casilla de verificación.
@@ -65,11 +67,13 @@ NOTA: "La contraseña que usted ha introducido no es válida. Por favor, compru�
 
 NOTA: "Quizá ha pulsado usted la tecla de TODO MAYÚSCULAS accidentalmente". Siempre que la contraseña sea incorrecta, el Formulario de entrada vuelve a aparecer con el cuadro de contraseña vacío.
 
-Si la dirección de e-mail y la contraseña están bien, se les cargará otra vez la página principal. En la parte donde aparecía la opción de “Acceso”, ahora aparecerá el icono de una personita y el nombre de usuario con el que el usuario está registrado. De esta manera, indica que ya está dentro de su cuenta de Musikamania. Ahora sí, una vez registrados, pueden navegar libremente y tienen el acceso permitido a todos los contenidos publicados en la página web. Además también contarán con la opción de poder escuchar las canciones que aparecen en las listas.  
+Si la dirección de e-mail y la contraseña están bien, se les cargará otra vez la página principal. En la parte donde aparecía la opción de “Acceso”, ahora aparecerá el icono de una personita y el nombre de usuario con el que el usuario está registrado. De esta manera, indica que ya está dentro de su cuenta de Musikamania. Ahora sí, una vez registrados, pueden navegar libremente y tienen el acceso permitido a todos los contenidos publicados en la página web. Además también contarán con la opción de poder escuchar las canciones que aparecen en las listas. 
+
 #### Si hacen clic en ¿Has olvidado tu contraseña?
-![Restablecer constraseña](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Restablecer%20contraseña.jpg)
 
 Se les conducirá a una página donde se les pida su correo electrónico y una nota arriba del todo de la página.
+
+![Restablecer constraseña](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Restablecer%20contraseña.jpg)
 
 NOTA: Escribe la dirección de correo electrónico que usaste para registrarte y te enviaremos las instrucciones para restablecer tu contraseña.  
 Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que tiene que seguir ese paso para poder realizar lo que el usuario quiere, en este caso, restablecer la contraseña.
@@ -89,6 +93,7 @@ NOTA: Email verificado. Le hemos enviado un nuevo correo con las nuevas indicaci
 Esta nota aparecerá debajo de las secciones en una barra de color verde. El color verde muestra que ya ha logrado verificar el e-mail.
  
 El mensaje del e-mail que reciban en su correo será el siguiente:
+
 ![Mensaje 2](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Mensaje%202.png)
 
 Cuando hagan clic en el enlace, irán directamente a la página de login de Musikamania.com
@@ -108,9 +113,9 @@ Cuando ponen su municipio aparecerá directamente el código postal
 
 Cuando se les pregunte:¿De qué géneros te gustaría recibir noticias?
 
-Si hacen clic en Otro les aparecerá un cuadro de texto donde podrán escribir el nombre del género que estén interesados
+- Si hacen clic en Otro les aparecerá un cuadro de texto donde podrán escribir el nombre del género que estén interesados
 
-Cada género musical tendrá una casilla de verificación y el usuario tendrá que marcar alguno si tiene especial interés en ello. En el caso de que hayan elegido algún/os género/s musical/es, cada vez que se publique cualquier contenido relacionado con el género o géneros que hayan seleccionado al registrarse, se les mandará un e-mail con el siguiente mensaje.
+- Cada género musical tendrá una casilla de verificación y el usuario tendrá que marcar alguno si tiene especial interés en ello. En el caso de que hayan elegido algún/os género/s musical/es, cada vez que se publique cualquier contenido relacionado con el género o géneros que hayan seleccionado al registrarse, se les mandará un e-mail con el siguiente mensaje.
 
 ##### Recibir contenido vía email
 ![Recibir contenido vía email](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Recibir%20contenido%20v%C3%ADa%20email.png)
@@ -119,6 +124,7 @@ Si hacen clic en el enlace se les conducirá directamente al contenido que se ha
 
 He leído y acepto los Términos de uso. (estará indicado con una casilla de verificación donde tendrán que clicar encima para aceptar. Para ver que ya lo han aceptado aparecerá un tick dentro de la casilla).
 Si hacen clic en Registrarse sin haber rellenado la casilla de verificación de los términos de uso les aparecerá una nota debajo de las secciones en una barra roja.
+
 NOTA: Para registrarse es obligatorio aceptar los Términos de uso. 
 Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que es necesario seguir ese paso para poder realizar bien el formulario.
 
@@ -162,6 +168,7 @@ Cuando dejen cualquier comentario, aparecerá ya escrito el nombre de usuario co
 
 #### Dejar comentarios
 ![Dejar un comentario](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Dejar%20un%20comentario.jpg)
+
 Cuando hagan clic en Comentar, aparecerá el comentario que han escrito con su nombre de usuario debajo del contenido al que hayan accedido.
 
 ### Listas de canciones
@@ -196,7 +203,6 @@ Todos los usuarios, independientemente de si están registrados o no, podrán ac
 
 
 ### Videoclips
-![videoclips](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Ejemplo%20contenido001.jpg)
 
 En la sección “Videoclips”, el usuario encontrará una selección de vídeos musicales que nosotros habremos escogido previamente. Nuestros criterios a la hora de seleccionarlos no solo responden a la popularidad de los vídeos o a la de los artistas que lo interpretan, sino que también valoramos su originalidad y calidad artística, así como aquello que creamos interesante para nuestros visitantes, ya que son personas con un perfil curioso, pero también exigente. 
 
@@ -205,6 +211,8 @@ Los vídeos se cogerán de la plataforma Youtube, de modo que nosotros tan solo 
 Los vídeos se mostrarán siguiendo una jerarquía que responde a un orden cronológico desde lo más reciente, a lo más antiguo. La idea, es que cada día se añada un videoclip nuevo por sección, a modo de que la sección esté constantemente ofreciendo nuevo contenido e incite al usuario a navegar por la misma. 
 
 Respecto a lo que el usuario observará, éste verá el título del vídeo, la caja con el vídeo y, debajo de éste, un pequeño párrafo con información más detallada sobre él; podría ser una presentación del vídeo con una anécdota, por ejemplo. Al final de cada párrafo, el usuario observará las etiquetas que se han utilizado para categorizar el vídeo dentro de la página, a modo de relacionarlo con contenido similar. También habrá iconos sociales para que el usuario, no sólo comparta el vídeo, sino que también comparta nuestras aportaciones. 
+
+![videoclips](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Ejemplo%20contenido001.jpg)
 
 ## Wireframes
 
