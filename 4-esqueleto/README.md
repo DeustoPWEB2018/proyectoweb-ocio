@@ -1,6 +1,6 @@
 # Plano de esqueleto
 
-## Diseño de la navegación (LEIRE)
+## Diseño de la navegación 
 ### Pantalla de entrada
 
 En nuestra página web de Musikamania, en la pantalla de entrada aparecerá únicamente un anuncio cada vez que el usuario entre en ella. Para ser más exactos, el anuncio tendrá una duración de 20 segundos, que tras 10 segundos del anuncio, aparecerá la opción de “Skip ad”, para aquellos que quieran quitar el anuncio y entrar en la página principal de nuestra web, pero también los usuarios tendrán la posibilidad de permanecer en el anuncio si es de su interés.
@@ -282,7 +282,113 @@ Los vídeos se mostrarán siguiendo una jerarquía que responde a un orden crono
 
 Respecto a lo que el usuario observará, éste verá el título del vídeo, la caja con el vídeo y, debajo de éste, un pequeño párrafo con información más detallada sobre él; podría ser una presentación del vídeo con una anécdota, por ejemplo. Al final de cada párrafo, el usuario observará las etiquetas que se han utilizado para categorizar el vídeo dentro de la página, a modo de relacionarlo con contenido similar. También habrá iconos sociales para que el usuario, no sólo comparta el vídeo, sino que también comparta nuestras aportaciones. 
 
-## Diseño de la información (IÑAKI)
-## Wireframes (MIKEL)
+
+
+## Diseño de la interfaz
+### Buscador
+![Barra buscador](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Barra%20buscador.jpg)
+#### Ejemplo NOTA: buscador
+![Ejemplo de NOTA-ERROR004](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Ejemplo%20de%20NOTA-ERROR004.jpg)
+
+### Acceso
+#### Si hacen clic en login
+![Si hacen clic en login](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Si%20hacen%20clic%20en%20login.jpg)
+
+#### Si hacen clic en ¿Has olvidado tu contraseña?
+![Restablecer constraseña](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Restablecer%20contraseña.jpg)
+
+![Mensaje 1](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Mensaje%201.png)
+![Mensaje 2](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Mensaje%202.png)
+
+#### Si hacen clic en Regístrate
+![Registro005](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Registro005.jpg)
+
+##### Recibir contenido vía email
+![Recibir contenido vía email](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Recibir%20contenido%20v%C3%ADa%20email.png)
+
+### Contenido
+![Ejemplo contenido001](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Ejemplo%20contenido001.jpg)
+#### Dejar comentarios
+![Dejar un comentario](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Dejar%20un%20comentario.jpg)
+
+### Listas de canciones
+#### Barra de reproducción
+![Barra de reproducción002](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Barra%20de%20reproducción002.jpg)
+
+### Agenda
+![Agenda003](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Agenda003.jpg)
+
+### Videoclips
+![videoclips](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Ejemplo%20contenido001.jpg)
+
+
+
+
+## Diseño de la información
+Los contenidos publicados en la web estarán etiquetados de la siguiente manera para facilitar su búsqueda:
+
+- Etiquetas de sistemas de enlaces (hipervínculos dentro del contenido). Estos hipervínculos llevarán a todos los contenidos que tengan esa etiqueta.
+	- Autor del contenido
+	- Nombres propios de grupos y festivales
+
+- Tags:
+	- Autor del contenido
+	- Época del músico o grupo del que trata el contenido
+		- 1970s
+		- 1980s
+		- 1990s
+		- 2000s
+		- 2010s
+		- 2011
+		- 2012
+		- … 
+	- Nombres propios mencionados en el contenido: cantantes, grupos y festivales
+	- Géneros musicales:
+		- Rock
+		- Pop
+		- Reggaetón
+		- Jazz
+		- Trap
+		- Punk
+		- Rap
+		- Techno
+		- Flamenco
+		- Country
+
+- Tags para clasificar el tipo de contenido:
+	- Noticia
+	- Última hora
+	- Crónica
+	- Fallecimiento
+	- Presentación
+	- Concierto
+	- Festival
+	- Entrevista
+	- Reportaje
+	- Nacional
+	- Internacional
+	- Lista
+	- Lo mejor
+	- Más escuchado
+	- Crítica
+
+
+
+
+## Wireframes
+
+### Página de entrada
+
+![entrada](/4-esqueleto/Imagenes/entrada.jpg)
+
+### Página principal
+
+![principal](/4-esqueleto/Imagenes/principal.jpg)
+
+### Plantilla de todas las páginas
+
+![plantilla](/4-esqueleto/Imagenes/plantilla.jpg)
+
+
 
 ## Referencias
