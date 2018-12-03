@@ -1,6 +1,6 @@
 # Plano de esqueleto
 
-## Diseño de la interfaz y la navegación
+## Diseño de la interfaz, la navegación y wireframes
 ### Pantalla de entrada
 
 En nuestra página web de Musikamania, en la pantalla de entrada aparecerá únicamente un anuncio cada vez que el usuario entre en ella. Para ser más exactos, el anuncio tendrá una duración de 20 segundos, que tras 10 segundos del anuncio, aparecerá la opción de “Skip ad”, para aquellos que quieran quitar el anuncio y entrar en la página principal de nuestra web, pero también los usuarios tendrán la posibilidad de permanecer en el anuncio si es de su interés.
@@ -8,6 +8,18 @@ En nuestra página web de Musikamania, en la pantalla de entrada aparecerá úni
 Hay que dejar claro, que el anuncio de la pantalla de entrada les aparecerá a todas las personas que entren en la página web de Musikamania, tanto si están registradas en la web, como si no lo están.  
 
 Cuando haga clic en “Skip ad” se le dirigirá a la página principal de Musikamania.com
+
+![entrada](/4-esqueleto/Imagenes/entrada.jpg)
+
+### Página principal
+
+![principal](/4-esqueleto/Imagenes/principal.jpg)
+
+### Lo que aparecerá en todas las páginas
+
+En todas las páginas de la web aparecerán las siguientes barras de navegación en la parte superior e inferior:
+
+![plantilla](/4-esqueleto/Imagenes/plantilla.jpg)
 
 ### Contacto
 
@@ -37,7 +49,6 @@ Si escriben cualquier letra, número o palabra que no aparezca en ninguno de los
 NOTA: No hemos encontrado resultados para tu búsqueda
 Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que ha habido un error.
 *Todas las notas aparecerán como este ejemplo, lo que cambiará es el color de la barra, que puede ser roja o verde.
-
 
 Historial: Todos las búsquedas que los usuarios realicen, independientemente de si están registrados o no, quedarán registrados en un historial de búsqueda a modo de que nosotros podamos  observar las necesidades de los usuarios y las carencias de nuestra página. 
 
@@ -214,19 +225,6 @@ Respecto a lo que el usuario observará, éste verá el título del vídeo, la c
 
 ![videoclips](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Ejemplo%20contenido001.jpg)
 
-## Wireframes
-
-### Página de entrada
-
-![entrada](/4-esqueleto/Imagenes/entrada.jpg)
-
-### Página principal
-
-![principal](/4-esqueleto/Imagenes/principal.jpg)
-
-### Plantilla de todas las páginas
-
-![plantilla](/4-esqueleto/Imagenes/plantilla.jpg)
 
 
 
