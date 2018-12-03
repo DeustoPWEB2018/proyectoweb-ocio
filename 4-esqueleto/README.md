@@ -1,4 +1,8 @@
 # Plano de esqueleto
+
+
+
+
 ## Diseño de la interfaz
 ### Buscador
 ![Barra buscador](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Barra%20buscador.jpg)
@@ -53,5 +57,59 @@
 ### Plantilla de todas las páginas
 
 ![plantilla](/4-esqueleto/Imagenes/plantilla.jpg)
+
+
+
+
+
+## Diseño de la información
+Los contenidos publicados en la web estarán etiquetados de la siguiente manera para facilitar su búsqueda:
+
+- Etiquetas de sistemas de enlaces (hipervínculos dentro del contenido). Estos hipervínculos llevarán a todos los contenidos que tengan esa etiqueta.
+	- Autor del contenido
+	- Nombres propios de grupos y festivales
+
+- Tags:
+	- Autor del contenido
+	- Época del músico o grupo del que trata el contenido
+		- 1970s
+		- 1980s
+		- 1990s
+		- 2000s
+		- 2010s
+		- 2011
+		- 2012
+		- … 
+	- Nombres propios mencionados en el contenido: cantantes, grupos y festivales
+	- Géneros musicales:
+		- Rock
+		- Pop
+		- Reggaetón
+		- Jazz
+		- Trap
+		- Punk
+		- Rap
+		- Techno
+		- Flamenco
+		- Country
+
+- Tags para clasificar el tipo de contenido:
+	- Noticia
+	- Última hora
+	- Crónica
+	- Fallecimiento
+	- Presentación
+	- Concierto
+	- Festival
+	- Entrevista
+	- Reportaje
+	- Nacional
+	- Internacional
+	- Lista
+	- Lo mejor
+	- Más escuchado
+	- Crítica
+
+
 
 ## Referencias
