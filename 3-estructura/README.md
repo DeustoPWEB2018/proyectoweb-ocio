@@ -167,8 +167,11 @@ En este caso volverán a la página de login para acceder a su cuenta mediante e
  	- En la duración de la canción, aparecerá una línea en la que se observará el tiempo de la canción. En el extremo izquierdo aparecerá escrito 00.00 y, a medida que la canción avance, se irán añadiendo los segundos y minutos. Sobre la línea temporal aparecerá un botón para saber que parte de la canción se ha escuchado y por donde va. A medida que la rueda avance, la parte que ya se ha transcurrido cambiará a color blanco. En el extremo derecho siempre aparecerá la duración de la canción. 
 =======
 >>>>>>> 8da73b3fefa873edb23b924b4fd8ca2c675299ed
+
 ## Arquitectura de la información
+
 ### Card Sorting
+
 #### Metodología card sorting
 El diseño de la página web debe estar centrado en el usuario. Para que la ejecución sea exacta, y del agrado de los usuarios es conveniente optar por hacer un trabajo de campo y así acercarse a ellos. Un método muy práctico para ello es el card-sorting. Un método, cuyo fin es servir de guía para diseñar la arquitectura de la información. Consiste en pedir a personas, o grupos crear categorías para agrupar distintos contenidos. Para la ejecución de esta actividad solamente serán necesarias unas tarjetas con etiquetas que harán referencia a distintos contenidos de la web, y unos voluntarios que quieran participar.
 #### Muestra
