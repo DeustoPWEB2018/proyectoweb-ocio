@@ -145,15 +145,15 @@ Siguiendo con el tema de los conciertos, también hemos preguntado si compran la
 
 Persona 1: Fran Gutierrez Hermoso
 
-! [fran gutierrez hermoso](fgh.jpg)
+![fran gutierrez hermoso](/1-estrategia/fgh.jpg)
 
 Persona 2: Oscar Rodríguez Medrano
 
-! [oscar rodriguez medrano](orm.jpg)
+![oscar rodriguez medrano](/1-estrategia/orm.jpg)
 
 Persona 3: Elena Villanueva García
 
-! [elena villanueva garcia](evg.jpg)
+![elena villanueva garcia](/1-estrategia/evg.jpg)
 
 ## Lean UX Canvas
 
