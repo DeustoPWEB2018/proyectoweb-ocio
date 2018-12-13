@@ -1,7 +1,5 @@
 # Plano de alcance
-## Slowcontent
 
-<<<<<<< HEAD
 ## Especificaciones funcionales
 
 								Musikamania
