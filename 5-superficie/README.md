@@ -1,10 +1,4 @@
-# Plano de superficie
-
-
-### Color y fuente
-
-#### Fuente
- 
+# Plano de superficie 
 
 ## Guía de estilo
 
