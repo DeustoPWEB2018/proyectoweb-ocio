@@ -1,5 +1,7 @@
 # Plano de superficie
 
+### Color y fuente
+
 #### Fuente
 
 Cada contenido de nuestra página diferente, por lo que su estilo también irá cambiando, según su sitio en la página o su importancia. Por ello, vamos a dividir contenidos según su tipografía, en los cuales cada uno de ellos estará diferenciado por su tamaño, fuente o grosor. A la hora de seleccionar una adecuada y legible tipografía, hay que tener en cuenta varias características, ya que no todos sirven de la misma manera. 
