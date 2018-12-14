@@ -68,6 +68,36 @@ Ejemplo del logo mark en fondo blanco
 
 ### Color y fuente
 
+#### Paleta de colores
+
+Blanco 
+
+![blanco](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-superficie/5-superficie/imagenes/blanco.png)
+
+Negro 
+
+![negro](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-superficie/5-superficie/imagenes/negro.png)
+
+Gris 
+
+![gris](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-superficie/5-superficie/imagenes/gris.png)
+
+Azul 
+
+![azul ](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-superficie/5-superficie/imagenes/azul%20.png)
+
+Azul claro 
+
+![azul claro](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-superficie/5-superficie/imagenes/azul%20claro.png)
+
+Granate 
+
+![granate](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-superficie/5-superficie/imagenes/granate.png)
+
+Naranja 
+
+![naranja](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-superficie/5-superficie/imagenes/naranja.png)
+
 #### Fuente
 
 Cada contenido de nuestra página diferente, por lo que su estilo también irá cambiando, según su sitio en la página o su importancia. Por ello, vamos a dividir contenidos según su tipografía, en los cuales cada uno de ellos estará diferenciado por su tamaño, fuente o grosor. A la hora de seleccionar una adecuada y legible tipografía, hay que tener en cuenta varias características, ya que no todos sirven de la misma manera. 
