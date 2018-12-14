@@ -21,12 +21,12 @@ La marca Musikamania es mucho más que un logo. Es un sistema visual que engloba
 Valor de marca:
 
 Los valores que definen la revista Musikamania son:
-Honestidad
-Sencillez
-Rigurosidad
-Conocimiento
-Creatividad
-Diversidad
+- Honestidad
+- Sencillez
+- Rigurosidad
+- Conocimiento
+- Creatividad
+- Diversidad
 
 
 ### Logotipo
@@ -54,6 +54,7 @@ Especificar el uso correcto del logotipo: El logotipo solo debe llevar los color
 Utilización del logo mark; colores y fondos:
 
 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark%20(2).png)
+
 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark%20(3).png)
 
 El logo mark en solitario podrá usarse en color naranja para fondo negro y en color azúl para fondo blanco.
