@@ -70,7 +70,7 @@ Como hemos dicho, todos ellos serán diferentes, y estarán diferenciados en apa
 	
 	-Fuente: Arial. Tamaño: 10. TrueType: 100.
 	
-Por último, como datos generales, la elección de la fuente Arial ha sido por su fácil legibilidad en las páginas webs, y al no ser una fuente con serif, es mucho más fácil para su lectura. Por otro lado, el interlineado estará configurada en función del tamaño de la fuente, por lo que cuando la fuente sea más grande, el interlineado también lo será, y al revés cuando la fuente sea menor. Además, todos los textos estarán justificados únicamente a la izquierda, para su cómoda lectura mirando a los usuarios.
+Hemos elegido la fuente Arial por su fácil legibilidad en las páginas webs, y al no ser una fuente con serif, es mucho más fácil para su lectura. Por otro lado, el interlineado estará configurada en función del tamaño de la fuente, por lo que cuando la fuente sea más grande, el interlineado también lo será, y al revés cuando la fuente sea menor. Además, todos los textos estarán justificados únicamente a la izquierda, para su cómoda lectura mirando a los usuarios.
 
 #### Ejemplo
 
