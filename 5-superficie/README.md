@@ -60,14 +60,14 @@ Utilización del logo mark; colores y fondos:
 El logo mark en solitario podrá usarse en color naranja para fondo negro y en color azúl para fondo blanco.
 
 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Musikamania.png)
+
 Ejemplo del logo mark en fondo negro. 
 
 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Musikamania%20(2).png)
+
 Ejemplo del logo mark en fondo blanco
 
-### Fuente
-
-### Color
+### Color y fuente
 
 ### Rejilla
 
