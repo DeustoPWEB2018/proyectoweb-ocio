@@ -9,10 +9,10 @@ El propósito de esta guía es orientar a terceros a la hora de crear elementos 
 Esta guía de estilo tiene los siguientes elementos:
 
 Portada
-Logo:
+Logos:
 
-Logo nº1 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark.png)
-Logo nº2 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark%20(1).png)
+![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark.png)
+![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark%20(1).png)
 
 Musikamania como marca: 
 
@@ -32,7 +32,7 @@ Diversidad
 ### Logotipo
 
 Una guía de logotipo:
-Logo de Musikamania.
+
 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark.png)
 
 Explicación: El logo se compone de dos elementos (Logo mark y word mark) el primero es se trata del símbolo distintivo de la revista, unos auriculares dentro de un círculo naranja a rayas. El el segundo se trata de la palabra Musikamania, escrita en tipografía Bebas Neue, tamaño 50, seguido de un .com, escrito en Open Sans 13,9.
@@ -44,11 +44,15 @@ Colores y fondos: El logo de Musikamania se puede utilizar con un fondo blanco o
 Especificar el uso correcto del logotipo: El logotipo solo debe llevar los colores que se especifican en la guía de color, a excepción del gris (#4A4A4A) y el azul claro (#A9D0F5). En el caso de que el color de fondo sea negro, solo se usará el color naranja para el logo mark.
 
 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark%20(1).png)
+
 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark%20(5).png)
+
 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark%20(6).png)
+
 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark.png)
 
-Utilización del logo mark; colores y fondos: 
+Utilización del logo mark; colores y fondos:
+
 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark%20(2).png)
 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark%20(3).png)
 
