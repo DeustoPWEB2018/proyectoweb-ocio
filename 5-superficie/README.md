@@ -1,8 +1,48 @@
 # Plano de superficie
 
+
 ### Color y fuente
 
 #### Fuente
+ 
+
+## Guía de estilo
+
+### Logotipo
+
+### Color y fuente
+#### Paleta de colores
+
+Blanco 
+
+![blanco](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-superficie/5-superficie/imagenes/blanco.png)
+
+Negro 
+
+![negro](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-superficie/5-superficie/imagenes/negro.png)
+
+Gris 
+
+![gris](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-superficie/5-superficie/imagenes/gris.png)
+
+Azul 
+
+![azul ](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-superficie/5-superficie/imagenes/azul%20.png)
+
+Azul claro 
+
+![azul claro](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-superficie/5-superficie/imagenes/azul%20claro.png)
+
+Granate 
+
+![granate](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-superficie/5-superficie/imagenes/granate.png)
+
+Naranja 
+
+![naranja](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-superficie/5-superficie/imagenes/naranja.png)
+
+#### Fuente
+
 
 Cada contenido de nuestra página diferente, por lo que su estilo también irá cambiando, según su sitio en la página o su importancia. Por ello, vamos a dividir contenidos según su tipografía, en los cuales cada uno de ellos estará diferenciado por su tamaño, fuente o grosor. A la hora de seleccionar una adecuada y legible tipografía, hay que tener en cuenta varias características, ya que no todos sirven de la misma manera. 
 
@@ -36,7 +76,7 @@ Como hemos dicho, todos ellos serán diferentes, y estarán diferenciados en apa
 	
 	-Fuente: Arial. Tamaño: 10. TrueType: 100.
 	
-Por último, como datos generales, la elección de la fuente Arial ha sido por su fácil legibilidad en las páginas webs, y al no ser una fuente con serif, es mucho más fácil para su lectura. Por otro lado, el interlineado estará configurada en función del tamaño de la fuente, por lo que cuando la fuente sea más grande, el interlineado también lo será, y al revés cuando la fuente sea menor. Además, todos los textos estarán justificados únicamente a la izquierda, para su cómoda lectura mirando a los usuarios. 
+Por último, como datos generales, la elección de la fuente Arial ha sido por su fácil legibilidad en las páginas webs, y al no ser una fuente con serif, es mucho más fácil para su lectura. Por otro lado, el interlineado estará configurada en función del tamaño de la fuente, por lo que cuando la fuente sea más grande, el interlineado también lo será, y al revés cuando la fuente sea menor. Además, todos los textos estarán justificados únicamente a la izquierda, para su cómoda lectura mirando a los usuarios.
 
 #### Ejemplo
 
@@ -51,5 +91,9 @@ Reproductor
 Videoclip
 
 ![Videoclip](/5-superficie/imagenes/videoclip1.jpg)
+
+### Rejilla
+
+### Gráficos y fotografías
 
 ## Referencias
