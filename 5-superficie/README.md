@@ -28,7 +28,6 @@ Los valores que definen la revista Musikamania son:
 - Creatividad
 - Diversidad
 
-
 ### Logotipo
 
 Una guía de logotipo:
@@ -69,10 +68,8 @@ Ejemplo del logo mark en fondo blanco
 
 ### Color y fuente
 
-### Rejilla
+#### Fuente
+ 
 
-### Gráficos y fotografías
 
-### Ejemplo
 
-## Referencias
