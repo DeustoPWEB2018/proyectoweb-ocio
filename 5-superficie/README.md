@@ -14,4 +14,8 @@ En la página principal, los contenidos estará divididos en 3, 4 y 2 columnas.
 
 ### Ejemplo
 
+![Página principal](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodri-superficie/5-superficie/Pagina%20principal.png?raw=true)
+
+![Página entrevista](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodri-superficie/5-superficie/Pagina%20noticia.png?raw=true)
+
 ## Referencias
