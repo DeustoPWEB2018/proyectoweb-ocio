@@ -166,4 +166,16 @@ En la página principal, los contenidos estará divididos en 3, 4 y 2 columnas.
 
 ![Página entrevista](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodri-superficie/5-superficie/Pagina%20noticia.png?raw=true)
 
+### Una guía para gráficos y/o fotografías
 
+Tipos de imágenes:
+
+- Imágenes para entrevistas/tamaño: Las imágenes grandes serán igual o mayores a 1024x768 píxeles. Las medianas, cuando el tamaño va de 320x240 a 1024x768 píxeles y, las pequeñas, cuando el tamaño es menor a 320x240 píxeles.
+
+- Imágen del logo: El tamaño del logo se mostrará a tamaño 500x500 píxeles o menor, dependiendo de la ocasión, pero nunca mayor. 
+
+- Calidad de las fotografías: A mayor peso, más calidad de imágen, aunque ello suponga un problema a la hora de cargar la página, así como en el alamacenamiento, que suele ser el disco duro de un servidor de Internet. Hay que intentar que las imágenes sean de buena calidad pero no demasiado pesadas, lo ideal sería que pesarán de 300KB a 1 MB. Dependiendo de la ocasión, podría realizarse una excepción, pero la rapidez en la carga de la página debe ser lo más importante. 
+
+-Iconos:
+
+Aquí nos referimos a la Lupa del buscador, el icono para compartir y los logos de Twitter, Facebook, etc. Éstos iconos se mostrarán en un tamaño de 100x100 píxeles.
