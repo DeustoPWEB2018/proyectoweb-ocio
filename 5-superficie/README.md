@@ -1,7 +1,5 @@
 # Plano de superficie
-
-## Guía de estilo
-
+=======
 En este documento se recoge la ‘Guía de estilo’ de la página web de la revista musical Musikamania; en ella se establecerán las reglas para el correcto uso de sus ‘recursos de marca’, que incluyen los logos, lo colores y las fuentes. Estos elementos son los que le dotan de cierta personalidad a la revista, por lo que es importante que se usen tal y como se expresan en esta guía, ya que gracias a ello, ésta logrará distinguirse de la competencia, haciendo que los lectores se familiaricen con ella. 
 
 El propósito de esta guía es orientar a terceros a la hora de crear elementos que representen la marca de la revista, como bien puede serlo un anuncio o una tarjeta de visita. También les ayudará a los empleados, colaboradores, diseñadores externos y a las agencias de publicidad o de marketing, a crear identidad de marca en el momento de trabajar para Musikamania. 
@@ -134,7 +132,6 @@ Como hemos dicho, todos ellos serán diferentes, y estarán diferenciados en apa
 	
 Por último, como datos generales, la elección de la fuente Arial ha sido por su fácil legibilidad en las páginas webs, y al no ser una fuente con serif, es mucho más fácil para su lectura. Por otro lado, el interlineado estará configurada en función del tamaño de la fuente, por lo que cuando la fuente sea más grande, el interlineado también lo será, y al revés cuando la fuente sea menor. Además, todos los textos estarán justificados únicamente a la izquierda, para su cómoda lectura mirando a los usuarios. 
 
-#### Ejemplo
 
 Login
 
@@ -150,3 +147,18 @@ Videoclip
 
 ### Rejilla
 
+La página web estará diseñada sobre la base de una rejilla de doce unidades. La división de las columnas será combinada
+
+En la página principal, los contenidos estará divididos en 3, 4 y 2 columnas.
+
+- Los dos primeros contenidos estarán a tres columnas. En la primera columna aparecerá en título y subtítulo de la primera noticia, entrevista... En la segunda columna estará su correspondiente imagen. Y en la tercera columna un segundo contenido.
+
+- El segundo apartado estará compuesto por tres contenidos y una publicidad. La publicidad siempre estará situada en ese lugar. Las noticias estarán en tres columnas simétricas.
+
+- Los dos últimos contenidos de la página principal estarán a dos columnas simétricas.
+
+#### Ejemplo
+
+![Página principal](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodri-superficie/5-superficie/Pagina%20principal.png?raw=true)
+
+![Página entrevista](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodri-superficie/5-superficie/Pagina%20noticia.png?raw=true)
