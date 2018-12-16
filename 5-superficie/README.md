@@ -1,34 +1,23 @@
 # Plano de superficie
-=======
+
 En este documento se recoge la ‘Guía de estilo’ de la página web de la revista musical Musikamania; en ella se establecerán las reglas para el correcto uso de sus ‘recursos de marca’, que incluyen los logos, lo colores y las fuentes. Estos elementos son los que le dotan de cierta personalidad a la revista, por lo que es importante que se usen tal y como se expresan en esta guía, ya que gracias a ello, ésta logrará distinguirse de la competencia, haciendo que los lectores se familiaricen con ella. 
 
 El propósito de esta guía es orientar a terceros a la hora de crear elementos que representen la marca de la revista, como bien puede serlo un anuncio o una tarjeta de visita. También les ayudará a los empleados, colaboradores, diseñadores externos y a las agencias de publicidad o de marketing, a crear identidad de marca en el momento de trabajar para Musikamania. 
 
 Esta guía de estilo tiene los siguientes elementos:
 
-Portada
-Logos:
+### Página principal
+
+![Página principal](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodri-superficie/5-superficie/Pagina%20principal.png?raw=true)
+
+### Logotipo
+
+#### Logos
 
 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark.png)
 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark%20(1).png)
 
-Musikamania como marca: 
-
-La marca Musikamania es mucho más que un logo. Es un sistema visual que engloba los aspectos más importantes de la personalidad distintiva de ésta revista musical. En Musikamania se le otorga especial importancia a la calidad del contenido frente a cualquier otro factor; por este motivo, es conveniente comentar desde el principio, que el contenido siempre debe ser el elemento más importante dentro de la página web, de modo que todos los recursos de marca deben contribuir a que el contenido sea consumido de la forma más clara, sencilla y atractiva posible. En resúmen, en esta revista se ha apostado por un diseño minimalista, ya que así se eliminan todos aquellos elementos que resulten pesados para la vista. El propósito es dar protagonismo al contenido, ya sea texto, fotografías, vídeos o la combinación de todos los elementos. Desde el punto de vista visual, el diseño minimalista está pensado para no sobrecargar la mente del observador, ayudándole a centrarse en la observación de la pieza. 
-
-Valor de marca:
-
-Los valores que definen la revista Musikamania son:
-- Honestidad
-- Sencillez
-- Rigurosidad
-- Conocimiento
-- Creatividad
-- Diversidad
-
-### Logotipo
-
-Una guía de logotipo:
+#### Una guía de logotipo:
 
 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Spin%20Shark.png)
 
@@ -63,6 +52,20 @@ Ejemplo del logo mark en fondo negro.
 ![imagen](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/leireneira-superficie/5-superficie/Musikamania%20(2).png)
 
 Ejemplo del logo mark en fondo blanco
+
+### Musikamania como marca: 
+
+La marca Musikamania es mucho más que un logo. Es un sistema visual que engloba los aspectos más importantes de la personalidad distintiva de ésta revista musical. En Musikamania se le otorga especial importancia a la calidad del contenido frente a cualquier otro factor; por este motivo, es conveniente comentar desde el principio, que el contenido siempre debe ser el elemento más importante dentro de la página web, de modo que todos los recursos de marca deben contribuir a que el contenido sea consumido de la forma más clara, sencilla y atractiva posible. En resúmen, en esta revista se ha apostado por un diseño minimalista, ya que así se eliminan todos aquellos elementos que resulten pesados para la vista. El propósito es dar protagonismo al contenido, ya sea texto, fotografías, vídeos o la combinación de todos los elementos. Desde el punto de vista visual, el diseño minimalista está pensado para no sobrecargar la mente del observador, ayudándole a centrarse en la observación de la pieza. 
+
+### Valor de marca:
+
+Los valores que definen la revista Musikamania son:
+- Honestidad
+- Sencillez
+- Rigurosidad
+- Conocimiento
+- Creatividad
+- Diversidad
 
 ### Color y fuente
 
@@ -137,11 +140,11 @@ Login
 
 ![Login](/5-superficie/imagenes/login1.jpg)
 
-Reproductor
+Barra de reproducción 
 
 ![Reproductor](/5-superficie/imagenes/reproductor1.jpg)
 
-Videoclip
+Videoclips
 
 ![Videoclip](/5-superficie/imagenes/videoclip1.jpg)
 
@@ -162,3 +165,5 @@ En la página principal, los contenidos estará divididos en 3, 4 y 2 columnas.
 ![Página principal](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodri-superficie/5-superficie/Pagina%20principal.png?raw=true)
 
 ![Página entrevista](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/iodri-superficie/5-superficie/Pagina%20noticia.png?raw=true)
+
+
