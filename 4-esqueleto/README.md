@@ -1,5 +1,18 @@
 # Plano de esqueleto
 
+<<<<<<< HEAD
+## Diseño de la interfaz
+### Buscador
+![Barra buscador](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Barra%20buscador.jpg)
+#### Ejemplo NOTA: buscador
+![Ejemplo de NOTA-ERROR004](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Ejemplo%20de%20NOTA-ERROR004.jpg)
+
+### Acceso
+#### Si hacen clic en login
+![Si hacen clic en login](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Si%20hacen%20clic%20en%20login.jpg)
+
+#### Si hacen clic en ¿Has olvidado tu contraseña?
+=======
 ## Diseño de la interfaz, la navegación y wireframes
 ### Pantalla de entrada
 
@@ -84,6 +97,7 @@ Si la dirección de e-mail y la contraseña están bien, se les cargará otra ve
 
 Se les conducirá a una página donde se les pida su correo electrónico y una nota arriba del todo de la página.
 
+>>>>>>> 51d709b55e96f25128625d43ccb95d11893bb361
 ![Restablecer constraseña](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Restablecer%20contraseña.jpg)
 
 NOTA: Escribe la dirección de correo electrónico que usaste para registrarte y te enviaremos las instrucciones para restablecer tu contraseña.  
@@ -107,6 +121,20 @@ El mensaje del e-mail que reciban en su correo será el siguiente:
 
 ![Mensaje 2](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Mensaje%202.png)
 
+<<<<<<< HEAD
+#### Si hacen clic en Regístrate
+![Registro005](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Registro005.jpg)
+
+##### Recibir contenido vía email
+![Recibir contenido vía email](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Recibir%20contenido%20v%C3%ADa%20email.png)
+
+### Contenido
+![Ejemplo contenido001](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Ejemplo%20contenido001.jpg)
+#### Dejar comentarios
+![Dejar un comentario](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Dejar%20un%20comentario.jpg)
+
+### Listas de canciones
+=======
 Cuando hagan clic en el enlace, irán directamente a la página de login de Musikamania.com
 
 #### Si hacen clic en Regístrate
@@ -199,10 +227,16 @@ Se está reproduciendo la canción y su duración. Si hacen clic encima del logo
 En la duración de la canción, aparecerá una línea en la que se observará el tiempo de la canción. En el extremo izquierdo aparecerá escrito 00.00 y, a medida que la canción avance, se irán añadiendo los segundos y minutos. Sobre la línea temporal aparecerá un botón para saber que parte de la canción se ha escuchado y por donde va. A medida que la rueda avance, la parte que ya se ha transcurrido cambiará a color blanco. En el extremo derecho siempre aparecerá la duración de la canción. 
 Aunque los usuarios sigan navegando en la página web la barra de reproductor seguirá apareciendo siempre abajo de la página. Si los usuarios quieren quitar la barra de reproducción, tendrán un X a la derecha de la barra de reproductor y si hacen clic encima del X la barra de reproducción desaparecerá.
 
+>>>>>>> 51d709b55e96f25128625d43ccb95d11893bb361
 #### Barra de reproducción
 ![Barra de reproducción002](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Barra%20de%20reproducción002.jpg)
 
 ### Agenda
+<<<<<<< HEAD
+![Agenda003](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Agenda003.jpg)
+
+### Videoclips
+=======
 
 En la página de inicio, debajo de las listas de reproducción, aparecerán las primeras cinco entradas de la agenda, ordenadas en prioridad por fecha, de lo más inmediato a lo más alejado en el tiempo; el usuario podrá ver el título del acontecimiento, la fecha y la hora de comienzo en la que se va a celebrar y una foto si la hubiera.
 
@@ -223,7 +257,9 @@ Los vídeos se mostrarán siguiendo una jerarquía que responde a un orden crono
 
 Respecto a lo que el usuario observará, éste verá el título del vídeo, la caja con el vídeo y, debajo de éste, un pequeño párrafo con información más detallada sobre él; podría ser una presentación del vídeo con una anécdota, por ejemplo. Al final de cada párrafo, el usuario observará las etiquetas que se han utilizado para categorizar el vídeo dentro de la página, a modo de relacionarlo con contenido similar. También habrá iconos sociales para que el usuario, no sólo comparta el vídeo, sino que también comparta nuestras aportaciones. 
 
+>>>>>>> 51d709b55e96f25128625d43ccb95d11893bb361
 ![videoclips](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-esqueleto/4-esqueleto/imagenes/Ejemplo%20contenido001.jpg)
+>>>>>>> fc38ac37ae5c10708f52b6b9a34990c825e3ab63
 
 ## Diseño de la información
 Los contenidos publicados en la web estarán etiquetados de la siguiente manera para facilitar su búsqueda:
