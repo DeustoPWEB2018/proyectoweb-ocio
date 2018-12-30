@@ -435,6 +435,7 @@ Cuando el usuario hace clic en Entrar, las siguientes comprobaciones tienen luga
 ##### Cuando hacen clic en "Has olvidado tu contraseña?"
 
 Se les conducirá a una página donde se les pida su correo electrónico y una nota arriba del todo de la página.
+
 ![restablecer contraseña](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-estructura/3-estructura/Imágenes/restablecer%20contraseña.jpg)
 
 NOTA: Escribe la dirección de correo electrónico que usaste para registrarte y te enviaremos las instrucciones para restablecer tu contraseña.
@@ -443,11 +444,13 @@ Cuando hayan escrito su correo electrónico y hagan clic en restablecer contrase
 NOTA: Te hemos enviado un correo con los pasos para regenerar tu contraseña 
 Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que tiene que seguir ese paso para poder realizar lo que el usuario quiere, en este caso, restablecer la contraseña.
 El mensaje del e-mail que reciban en su correo será el siguiente:
+
 ![mensaje 1](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-estructura/3-estructura/Imágenes/mensaje%201.jpg)
 
 Cuando hagan clic en el enlace, irán directamente a la página de login y aparecerá una nota arriba de la página:
 NOTA: Email verificado. Le hemos enviado un nuevo correo con las nuevas indicaciones para acceder a Musikamania.com Esta nota aparecerá debajo de las secciones en una barra de color verde. El color verde muestra que ya ha logrado verificar el e-mail.
 El mensaje del e-mail que reciban en su correo será el siguiente:
+
 ![mensaje 2](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-estructura/3-estructura/Imágenes/mensaje%202.jpg)
 
 Cuando hagan clic en el enlace, irán directamente a la página de login de Musikamania.com
