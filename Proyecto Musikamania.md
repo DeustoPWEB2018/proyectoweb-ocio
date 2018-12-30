@@ -374,6 +374,14 @@ Al final de la página de inicio, habrá un enlace a varias páginas estáticas 
 
 #### Pantalla de entrada
 
+![Pantalla de entrada](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/correccion-iodrie/entrada.jpg?raw=true)
+
+En la página web de Musikamania, en la pantalla de entrada aparecerá un anuncio cada vez que el usuario entre en ella. Para ser más exactos, el anuncio tendrá una duración de 20 segundos, que tras 5 segundos del anuncio, aparecerá la opción de “Saltar anuncio”, para aquellos que quieran quitar el anuncio y entrar en la página principal de la web, pero los usuarios también tendrán la posibilidad de permanecer en el anuncio si es de su interés.
+
+El anuncio solo aparecerá la primera vez que el usuario entre en la página web, es decir, la primera vez que su dirección IP quede registrada como única visita. De modo que el anuncio solo aparecerá en la pantalla de inicio la primera vez que un usuario entre en la página. 
+
+Hay que dejar claro, que el anuncio de la pantalla de entrada les aparecerá a todas las personas que entren en la página web de Musikamania, tanto si están registradas en la web, como si no lo están.
+
 #### Página principal
 
 Una vez que hayan accedido a la página web de Musikamania.com les aparecerá la siguiente página. Ésta página será la página principal o el menú de inicio de Musikamania
