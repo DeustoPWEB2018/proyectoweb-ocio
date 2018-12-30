@@ -9,7 +9,7 @@ Musikamania.com ofrecerá a los usuarios contenidos de calidad sobre diversos g�
 
 #### Circunstancias de uso
 
-- **¿A quiénes nos dirigimos?** → 
+- **¿A quiénes nos dirigimos?** → Nuestro público objetivo serán personas aficionadas a la música y de carácter curioso que tengan entre 16 y 40 años, ya que consideramos que quienes se encuentran dentro de esta franja de edad, tienen un conocimiento básico suficiente sobre cómo navegar por Internet y de cómo utilizar una página web. Un estudio reciente elaborado por Amstel Index muestra que la música es de gran interés entre los jóvenes que navegan en internet. Los resultados muestran que en 15 días, la música recibió más alrededor de 80.000 menciones. La mayoría de éstas escritas por jóvenes de entre 18 y 24 años.
 
 - **¿Qué?** → A estos usuarios, nosotros les ofreceremos contenido multimedia relacionado con distintos géneros musicales que puedan resultarles interesantes, tales como noticias, entrevistas, reportajes, playlist, agenda de conciertos, crónicas sobre festivales de música, recomendaciones, crítica musical, etc. Los géneros musicales que se tratarán en la web se elegirán según los intereses que tengan los usuarios. Para saber más de los gustos musicales de los lectores, a continuación se elaborará una encuesta.
 
@@ -157,6 +157,8 @@ Siguiendo con el tema de los conciertos, también hemos preguntado si compran la
 ![Persona 2](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/correccion-iodrie/Imagenes%20personas/persona2.jpg?raw=true)
 
 ![Persona 3](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/correccion-iodrie/Imagenes%20personas/persona3.jpg?raw=true)
+
+### Lean UX Canvas
 
 ## Alcance
 
@@ -363,6 +365,10 @@ Para los usuarios será sencillo tener acceso a las categorías desde el inicio 
 El redactor añadirá las etiquetas una vez concluido el post. En ese momento tendrá la opción de elegir aquellas que ya estén creadas o bien crear una nueva en base a las necesidades que presente dicho contenido. Éstas aparecerán solo al final del contenido, aunque el usuario podrá buscar la etiqueta en el buscador desde la página de inicio en caso de que ya sepa qué quiere leer nada más entrar. Al final de cada contenido también aparecerán los iconos sociales de Twitter y Facebook. 
 
 Al final de la página de inicio, habrá un enlace a varias páginas estáticas con información de contacto, publicidad y  quiénes somos. Al final del todo también aparecerán los derechos de la página, de su diseño y de su contenido.
+
+### Diagrama
+
+![Diagrama](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/correccion-iodrie/diagrama%20(1).jpg?raw=true)
 
 ### Diseño de la interfaz, la navegación, la información y wireframes
 
@@ -595,6 +601,5 @@ Nombres propios de grupos y festivales
 		- Lo mejor
 		- Más escuchado
 		- Crítica
-
 
 ## Superficie
