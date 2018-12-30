@@ -495,7 +495,7 @@ En la página de inicio, debajo del menú con las secciones, aparecerán los tí
 En caso de que el usuario agotase todo el contenido, aparecerá un botón para cargar y actualizar la página.
 El título de las entradas estarán disponibles para todos los usuarios, pero los contenidos ampliados solo estarán disponibles para los usuarios registrados que hayan iniciado sesión. Al resto les aparecerá un mensaje Pop up diciéndoles que deben registrarse, por lo que se les enviará a la página de registro.
 
-![Página principal]()
+![Página principal](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/correccion-iodrie/Wireframe/pagina%20principal018.jpg?raw=true)
 
 ##### Cuando el usuario haga clic en algún contenido
 
