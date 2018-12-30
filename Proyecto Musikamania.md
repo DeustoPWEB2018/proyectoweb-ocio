@@ -36,6 +36,18 @@ Musikamania.com ofrecerá a los usuarios contenidos de calidad sobre diversos g�
 
 #### Indicadores de éxito
 
+Gracias a los indicadores de éxito descritos a continuación se podrá saber si los objetivos de la página web se están cumpliendo o no.
+
+- Número de usuarios suscritos y no suscritos que acceden a la página web.
+
+- Número de comentarios que reciben los contenidos.
+
+- Número de veces en los que se ha compartido un contenidos en las redes sociales.
+
+- Número de suscripciones conseguidos durante un mes.
+
+- Cantidad de menciones conseguidas en las redes sociales.
+
 ### Necesidades del usuario
 
 #### Investigación de usuarios
@@ -243,7 +255,7 @@ Los administradores, a parte de ser los encargados de la gestión de contenidos,
 
 ##### Tablas de página
 
-![Agenda]()
+![Agenda](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/correccion-iodrie/Tablas%20de%20p%C3%A1gina/Agenda.jpg?raw=true)
 
 ![Entrevista](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/2-alcance/Entrevista.jpg?raw=true)
 
@@ -254,4 +266,102 @@ Los administradores, a parte de ser los encargados de la gestión de contenidos,
 ![Reportaje](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/2-alcance/Reportaje.jpg?raw=true)
 
 ## Estructura y esqueleto
+
+### Arquitectura de la información
+
+#### Card Sorting
+
+##### Metodología card sorting
+
+El diseño de la página web debe estar centrado en el usuario. Para que la ejecución sea exacta, y del agrado de los usuarios es conveniente optar por hacer un trabajo de campo y así acercarse a ellos. Un método muy práctico para ello es el card-sorting. Un método, cuyo fin es servir de guía para diseñar la arquitectura de la información. Consiste en pedir a personas, o grupos crear categorías para agrupar distintos contenidos. Para la ejecución de esta actividad solamente serán necesarias unas tarjetas con etiquetas que harán referencia a distintos contenidos de la web, y unos voluntarios que quieran participar.
+
+##### Muestra
+
+En el card sorting realizado para la página web Musikamania.com, se optó por hacerlo por parejas. En total, han participado seis parejas. Es conveniente que el card sorting se haga en grupo, ya que ambas partes dan su opinión, y pueden llegar o no a un consenso. En consecuencia, posiblemente, interesa más la discusión que el resultado es sí. No obstante, el card-sorting realizado para Musikamania dió poco pie a la discusión, ya que las opiniones de las parejas no chocaban. En consecuencia, las conclusiones están basadas en los resultados.
+
+##### Tipo de card sorting
+
+Estas parejas han sido sometidas a realizar un card sorting abierto. Es decir, se les han entregado unas cartas con las etiquetas mencionadas a continuación, y han tenido que agruparlas. Es lógico realizar la prueba abierta, ya que la página web es nueva, y no tiene categorías ya preestablecidas.
+
+##### Etiquetas
+Las etiquetas del contenido que se les han ofrecido son los siguientes:
+- Lo más escuchado en rock
+- Lo mejor del pop
+- Lo más escuchado en Spotify
+- Lo más viral en Youtube
+- Madrid: 21/12/2018, 22:00; Berri Txarrak. Entradas en venta en:
+- Barcelona: 20/07/2019; Barcelona Beach Festival. Entradas agotadas
+- Todo lo que tienes que saber para ir a Primavera Festival
+- Fallece Aretha Franklin, la reina del soul
+- Se suspende Tomorrowland por lluvia
+- Gatibu presenta su nuevo tema: SALTO!
+- Huntza presentará en Durango su nuevo disco
+- Comunicado oficial: Vendetta dejará los escenarios
+- Su ta Gar, 31 años a fuego
+- Letras que duelen
+- Un día cualquiera con: Rosalía
+- Actuación para enmarcar de Berri Txarrak en los MTV
+- Concierto de Gozategi pasado por lluvia
+- Crónica e imágenes del concierto de Amaral
+- Disco con la guitarra como protagonista: 9 puntos
+- El nuevo álbum no cumple con las expectativas: 3 puntos
+- Trini Fox: “Lo que empezó como un juego, es nuestra profesión”
+- Maluma: “Es mejor no hacer caso a las críticas”
+- Historia de Musikamania.com
+- Fundadores
+- Red de colaboradores
+
+##### Resultados
+Pueden verse los resultados obtenidos en la siguiente tabla. Los conceptos que están en horizontal con las categorías que los participantes crearon:
+
+![Resultados card sorting](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/3-estructura/Resultados.jpg?raw=true)
+
+Vistos los resultados conseguidos gracias al card sorting, cabe destacar que no ha habido grandes discrepancias entre los resultados de las seis parejas participantes. Los resultados más llamativos son los siguientes:
+
+- **Tendencia a especificar y dividir las noticias de actualidad en subcategorías.** Sorprende la aparición de categorías como presentaciones, crónicas y noticias. Esto demuestra la tendencia a querer encontrar lo que se busca lo más rápido posible, sin perder el tiempo en leer contenidos que no interesan.
+- **La tendencia a relacionar titulares informativos  con las noticias, y los titulares gancho con los reportajes.** Los contenidos titulados diciendo explícitamente lo que cuenta el texto se perciben como noticias puras, y como reportajes los que tienen un titular abierto.
+- **Poca duda en relacionar titulares con una cita textual con entrevistas.** 
+- **Tendencia a relacionar las valoraciones en los titulares con críticas y reviews.** Teniendo en cuenta que el significado de ambos conceptos es el mismo, no cabe duda que las notas puestas de 0 a 10 hacen relacionar al usuario el contenido con opiniones.
+- **La total relación que hacen los usuarios con la frase “lo más” y las listas.** Al leer ese concepto  la mayoría de las parejas no dudó en crear una categoría llamada listas.
+
+#### Clasificación de contenidos
+
+En base al Card Sorting realizado a un grupo de personas que encajan con las características del público objetivo de Musikamania.com, se ha decidido clasificar la información de la página web de la siguiente manera:
+
+- **Clasificación cronológica**: El esquema de clasificación seguirá un orden cronológico, ya que se ha observado que los usuarios se decantan por ordenar la información en base a una línea temporal que va de lo más reciente a lo más antiguo. 
+
+- **Clasificación por tema:** se va a clasificar la  información en base a unos temas a los que se llamarán categorías, dentro de las cuales habrá subcategorías a modo de concretar más. De forma más específica, también se utilizarán etiquetas, que serán las palabras clave asociadas a un contenido concreto. 
+
+Las categorías que se usarán son las siguientes:
+
+- Actualidad (Noticias, Crónicas de conciertos y festivales, Crítica de CDs)
+
+- Reportajes
+
+- Entrevistas
+
+- Listas de canciones (Rock, Pop, Reggaeton, Electronica)
+
+- Videoclips 
+
+- Agenda
+
+El uso de las etiquetas, que se añadirán después de haber redactado el contenido, servirá para guiar al usuario al final de cada contenido que consuma.  Por ejemplo, si un usuario lee una noticia sobre un grupo de rock y ve la etiqueta “punk rock”, podrá enlazar la noticia que acaba de leer con cualquier otro contenido de la página que lleve esa misma etiqueta. 
+
+La creación de etiquetas seguirá el siguiente orden:
+
+- Géneros (Rock, Pop, Jazz, Electrónica, etc)
+- Subgéneros (de cada uno de los géneros)
+- Nombre del artista o grupo
+- Algún atributo que sirva para distinguirlo (Música nueva, alternativo, experimental…)
+- Década o tiempo al que corresponde esa música (70’s, 80’s, 90’s…)
+
+Esta forma de organizar el contenido responde a un esquema subjetivo. Este enfoque puede que sea el más adecuado, ya que permite definir un esquema temático a la hora de redactar el contenido que se mostrará en la página web. 
+
+Para los usuarios será sencillo tener acceso a las categorías desde el inicio y que, a su vez, éstas puedan desplegarse mostrando las subcategorías correspondientes. 
+
+El redactor añadirá las etiquetas una vez concluido el post. En ese momento tendrá la opción de elegir aquellas que ya estén creadas o bien crear una nueva en base a las necesidades que presente dicho contenido. Éstas aparecerán solo al final del contenido, aunque el usuario podrá buscar la etiqueta en el buscador desde la página de inicio en caso de que ya sepa qué quiere leer nada más entrar. Al final de cada contenido también aparecerán los iconos sociales de Twitter y Facebook. 
+
+Al final de la página de inicio, habrá un enlace a varias páginas estáticas con información de contacto, publicidad y  quiénes somos. Al final del todo también aparecerán los derechos de la página, de su diseño y de su contenido.
+
 ## Superficie
