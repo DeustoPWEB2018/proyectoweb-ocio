@@ -611,3 +611,123 @@ Nombres propios de grupos y festivales
 		- Crítica
 
 ## Superficie
+
+En este documento se recoge la ‘Guía de estilo’ de la página web de la revista musical Musikamania; en ella se establecerán las reglas para el correcto uso de sus ‘recursos de marca’, que incluyen los logos, los colores, las fuentes, las rejillas y las imágenes. Estos elementos son los que le dotan de cierta personalidad a la revista, por lo que es importante que se usen tal y como se expresan en esta guía, ya que gracias a ello, ésta logrará distinguirse de la competencia, haciendo que los lectores se familiaricen con ella.
+El propósito de esta guía es orientar a terceros a la hora de crear elementos que representen la marca de la revista, como bien puede serlo un anuncio o una tarjeta de visita. También les ayudará a los empleados, colaboradores, diseñadores externos y a las agencias de publicidad o de marketing, a crear identidad de marca en el momento de trabajar para Musikamania.
+Esta guía de estilo tiene los siguientes elementos:
+
+### Página principal
+
+Así es cómo se va a mostrar la página principal de Musikamania.com:
+
+![Página principal](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/Pagina%20principal.png?raw=true)
+
+### Logotipo
+
+#### Logos
+
+### Musikamania como marca
+
+#### Valor de marca
+
+### Color y fuente
+
+#### Paleta de colores
+
+- **Blanco** ![Blanco](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/imagenes/blanco.png?raw=true)
+
+Se utilizará en:
+	- Cajas de texto
+	- Fondo de los textos
+	- Letras del logotipo
+	- Fondo del logotipo
+	- Fondo de Contacto
+	- Texto Acceso
+	- Texto botones en granate (los botones donde hay que hacer clic son de color granate y su texto es blanco)
+
+- **Negro** ![Negro](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/imagenes/negro.png?raw=true)
+
+Se utilizará en:
+	- Texto (excepto Acceso)
+	- Icono de la lupa
+	- Logotipo
+
+- **Gris** ![Gris](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/imagenes/gris.png?raw=true)
+
+Se utilizará en:
+	- Fondo de los contenidos
+
+- **Azul claro**  ![Azul claro](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/imagenes/azul%20claro.png?raw=true)
+
+Se utilizará en:
+	- Fondo de los títulos de las secciones
+
+- **Granate** ![Granate](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/imagenes/granate.png?raw=true)
+
+Se utilizará en:
+	- Ventana de la barra de reproducción
+	- Botones donde hay que hacer clic (Restablecer, Comentar etc.)
+
+- **Naranja** ![Naranja](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/imagenes/naranja.png?raw=true)
+
+Se utilizará en:
+	- Imagen del logotipo
+
+#### Fuente
+
+Cada contenido de la página web es diferente, por lo que su estilo también irá cambiando según su posición o su importancia en la página. Por ello, a continuación se especificará el diseño que tendrá cada contenido de la página. Para ello se han dividido estos contenidos según su tipografía en base a su tamaño, fuente y grosor. A continuación se procederá a especificar el diseño que tendrán cada uno de ellos.
+
+- Acceso
+	- Fuente: Arial. Tamaño: 72. TrueType: 500.
+
+- Sección
+	- Fuente: Arial. Tamaño: 14. TrueType: 500. Mayus.
+
+- Título
+	- Fuente: Arial. Tamaño: 18. TrueType: 700.
+
+- Subtítulo
+	- Fuente: Arial. Tamaño: 13. TrueType: 300.
+
+- Nombre del autor
+	- Fuente: Arial. Tamaño: 11. TrueType: 500.
+
+- Texto
+	- Fuente: Arial. Tamaño: 11. TrueType: 100.
+
+- Pie de foto
+	- Fuente: Arial. Tamaño: 10. TrueType: 100.
+
+La elección de la fuente Arial ha sido por su fácil legibilidad en las páginas webs, y al no ser una fuente con serif, es mucho más fácil para su lectura. Por otro lado, el interlineado estará configurada en función del tamaño de la fuente, por lo que cuando la fuente sea más grande, el interlineado también lo será, y al revés cuando la fuente sea menor. Además, todos los textos estarán justificados únicamente a la izquierda, para su cómoda lectura.
+
+#### Elementos adicionales
+
+![Login](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/imagenes/login1.jpg?raw=true)
+
+![Reproductor](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/imagenes/reproductor1.jpg?raw=true)
+
+![Videoclips](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/imagenes/videoclip1.jpg?raw=true)
+
+### Rejilla
+
+La página web estará diseñada sobre la base de una rejilla de doce unidades. La división de las columnas será combinada
+En la página principal, los contenidos estará divididos en 3, 4 y 2 columnas.
+
+- Los dos primeros contenidos estarán a tres columnas. En la primera columna aparecerá en título y subtítulo de la primera noticia, entrevista... En la segunda columna estará su correspondiente imagen. Y en la tercera columna un segundo contenido.
+- El segundo apartado estará compuesto por tres contenidos y una publicidad. La publicidad siempre estará situada en ese lugar. Las noticias estarán en tres columnas simétricas.
+- Los dos últimos contenidos de la página principal estarán a dos columnas simétricas.
+
+**Ejemplo**
+
+![Página principal](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/Pagina%20principal.png?raw=true)
+
+![Página noticia](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/Pagina%20noticia.png?raw=true)
+
+### Guía para gráficos y/o fotografías
+
+- Tipos de imágenes:
+	- Imágenes para entrevistas/tamaño: Las imágenes grandes serán igual o mayores a 1024x768 píxeles. Las medianas, cuando el tamaño va de 320x240 a 1024x768 píxeles y, las pequeñas, cuando el tamaño es menor a 320x240 píxeles.
+	- Imágen del logo: El tamaño del logo se mostrará a tamaño 500x500 píxeles o menor, dependiendo de la ocasión, pero nunca mayor.
+	- Calidad de las fotografías: A mayor peso, más calidad de imágen, aunque ello suponga un problema a la hora de cargar la página, así como en el alamacenamiento, que suele ser el disco duro de un servidor de Internet. Hay que intentar que las imágenes sean de buena calidad pero no demasiado pesadas, lo ideal sería que pesarán de 300KB a 1 MB. Dependiendo de la ocasión, podría realizarse una excepción, pero la rapidez en la carga de la página debe ser lo más importante.
+
+-Iconos: aquí nos referimos a la Lupa del buscador, el icono para compartir y los logos de Twitter, Facebook, etc. Éstos iconos se mostrarán en un tamaño de 100x100 píxeles.
