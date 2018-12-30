@@ -364,4 +364,234 @@ El redactor añadirá las etiquetas una vez concluido el post. En ese momento te
 
 Al final de la página de inicio, habrá un enlace a varias páginas estáticas con información de contacto, publicidad y  quiénes somos. Al final del todo también aparecerán los derechos de la página, de su diseño y de su contenido.
 
+### Diseño de la interfaz, la navegación, la información y wireframes
+
+#### Pantalla de entrada
+
+#### Página principal
+
+Una vez que hayan accedido a la página web de Musikamania.com les aparecerá la siguiente página. Ésta página será la página principal o el menú de inicio de Musikamania
+
+![Página principal](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/4-esqueleto/Imagenes/principal.jpg?raw=true)
+
+#### Lo que aparecerá en todas las páginas
+
+En todas las páginas de la web aparecerán las siguientes barras de navegación en la parte superior e inferior:
+
+![Barras de navegación](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/4-esqueleto/Imagenes/plantilla.jpg?raw=true)
+
+- El primer elemento que verá será el logo de Musikamania, que será una imágen. Dentro de la imagen se insertará un Link con la dirección de la página web (Musikamania.com) para que al clicar le reconduzca a la página de inicio.
+- Luego estaría el botón de acceso de la página. Al poner el ratón sobre el botón de acceso aparecerá un menú con dos opciones, Login o Regístrate. En login el usuario podrá iniciar sesión con su nombre de usuario o email y su contraseña. En Regístrate se le enviará al formulario de registro. 
+- El siguiente elemento es el menú principal, en el que se muestran los nombres de las secciones de la página web. Qué son las principales categorías asociadas a todo el contenido de la página web. Si el usuario hace clic en cualquiera de ellas, se le dirigirá a la página en la que se muestra el contenido que respecta a cada una. 
+- Luego estaría la barra del buscador y el icono. Si escriben cualquier cosa aquí podrán buscar rápidamente lo que necesitan.
+- Por último, hay un menú en la parte de abajo con las páginas en las que aparece toda la información necesaria para el contacto, además de información sobre la revista y la forma de patrocinarse.
+
+#### Contacto
+
+La información relacionada con la empresa aparecerá en una barra horizontal, debajo del todo en las páginas de la web. Esta información estará en las páginas enlazadas con estas etiquetas: Conócenos: enlace que llevará a una página dónde aparecerá la información de los fundadores de la empresa. Nombre y apellidos Estudios Descripción Contacto: página donde se detallará la manera de ponerse en contacto con la revista: Número de teléfono Correo electrónico Ubicación Patrocinadores: el enlace llevará a la lista de los patrocinadores que apoyan esta página web
+Aunque la barra de navegación superior y la barra de contacto aparezcan en todas las páginas de Musikamania, el contenido que aparecerá en medio de las dos barras cambiará según las secciones que visiten los usuarios.
+
+
+#### Buscador
+
+![Barra del buscador](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/4-esqueleto/imagenes/Barra%20buscador.jpg?raw=true)
+
+Se empleará una etiqueta en modo de icono para que el usuario sepa que esa barra trata del buscador. Aparece el icono de una lupa y al lado una barra de texto para que los usuarios escriban lo que quieran. 
+
+- Si escriben cualquier letra, número o palabra que contenga cualquier contenido que esté publicado en la página web y hacen clic en el icono de la lupa aparecerán el título, autor y fecha de cada publicación ordenados en una lista cronológicamente, del más actual al que más tiempo tiene. 
+- Si escriben cualquier letra, número o palabra que no aparezca en ninguno de los contenidos publicados en la página web, cuando hagan clic en el icono de la lupa les aparecerá una nota:
+
+![Nota error](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/4-esqueleto/imagenes/Ejemplo%20de%20NOTA-ERROR004.jpg?raw=true)
+
+NOTA: No hemos encontrado resultados para tu búsqueda Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que ha habido un error. *Todas las notas aparecerán como este ejemplo, lo que cambiará es el color de la barra, que puede ser roja o verde.*
+
+Debajo de esta nota aparecerá otra en color verde. NOTA: Quizás querías decir X. Debajo de esta nota aparecerán los enlaces a los contenidos que contengan la letra, el número o la palabra que les haya aparecido en la nota.
+
+Historial: Todos las búsquedas que los usuarios realicen, independientemente de si están registrados o no, quedarán registrados en un historial de búsqueda a modo de que nosotros podamos observar las necesidades de los usuarios y las carencias de nuestra página.
+
+#### Acceso
+
+Cuando hacen clic en acceso les aparecerá una barra con dos opciones: login y regístrate.
+
+##### Cuando hacen clic en "Login"
+
+![login.](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/4-esqueleto/imagenes/Si%20hacen%20clic%20en%20login.jpg?raw=true)
+
+Si hacen clic en el cuadrito de Recuérdame, se les dará la opción de guardar automáticamente el nombre de usuario y la contraseña, de forma que, cada vez que accedan a la página ya estarán directamente dentro de sus cuentas. Eso estará indicado arriba a la derecha, en vez de poner acceso, aparecerá el icono de un usuario y el nombre de usuario con el que esté registrado. El usuario que no quiera guardar su cuenta de forma automática no tendrá más que rechazar la oferta dándole al botón Ahora NO.  Este último, tendrá que volver a escribir su nombre de usuario y contraseña para acceder a su cuenta cada vez que visite la página de Musikamania. 
+ 
+Cuando un usuario quiera cerrar sesión, tendrá que colocar el cursor sobre el icono con forma de persona que le aparece en la parte superior para que le aparezca la opción de cerrar sesión.
+
+##### Cuando hacen clic en "Entrar"
+
+Cuando el usuario hace clic en Entrar, las siguientes comprobaciones tienen lugar en el servidor: 
+- Si se había introducido la dirección de e-mail, pero que no era una dirección de e-mail real porque no tiene el formato correcto (no está el signo @ o contiene caracteres no permitidos en direcciones de e-mail), el servidor devuelve otra página muy parecida al Formulario de entrada, sólo que esta vez, se inserta un mensaje de error en rojo sobre el cuadro de dirección de e-mail, diciendo *NOTA:* "La dirección de e-mail que usted ha escrito no es válida. Por favor, compruébela otra vez". Aunque este texto está en rojo, el texto "Por favor, introduzca su dirección de e-mail" sigue apareciendo en negro. La dirección de e-mail incorrecta que el usuario haya escrito originalmente aparecerá rellenando el cuadro de edición.
+
+- Si se había introducido la dirección de e-mail y corresponde a un miembro registrado, pero no se ha escrito ninguna contraseña, enviamos un e-mail que contenga la contraseña a esa dirección. El asunto del e-mail es "Su afiliación a Musikamania.com". El e-mail estará sólo en texto plano. La redacción exacta de este e-mail todavía es objeto de vivo debate por la junta de directores y será comunicado antes de la entrega. 
+
+- Si se había introducido la dirección de e-mail y corresponde a un miembro registrado, y se había introducido una contraseña, pero ésta es incorrecta, el servidor devuelve otra página muy parecida al Formulario de entrada, sólo que esta vez, se inserta un mensaje de error en rojo sobre el cuadro de contraseña, diciendo *NOTA:* "La contraseña que usted ha introducido no es válida. Por favor, compruébela otra vez. Recuerde, en las contraseñas las mayúsculas y minúsculas son letras diferentes". Si la contraseña escrita no contiene ninguna letra minúscula, añadimos este texto al mensaje: "Quizá ha pulsado usted la tecla de TODO MAYÚSCULAS accidentalmente". Siempre que la contraseña sea incorrecta, el Formulario de entrada vuelve a aparecer con el cuadro de contraseña vacío.
+
+- Si la dirección de e-mail y la contraseña están bien, se les cargará otra vez la página principal. En la parte donde aparecía la opción de “Acceso”, ahora aparecerá el icono de una personita y el nombre de usuario con el que el usuario está registrado. De esta manera, indica que ya está dentro de su cuenta de Musikamania. Ahora sí, una vez registrados, pueden navegar libremente y tienen el acceso permitido a todos los contenidos publicados en la página web. Además también contarán con la opción de poder escuchar las canciones que aparecen en las listas. 
+
+##### Cuando hacen clic en "Has olvidado tu contraseña?"
+
+Se les conducirá a una página donde se les pida su correo electrónico y una nota arriba del todo de la página.
+![restablecer contraseña](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-estructura/3-estructura/Imágenes/restablecer%20contraseña.jpg)
+
+NOTA: Escribe la dirección de correo electrónico que usaste para registrarte y te enviaremos las instrucciones para restablecer tu contraseña.
+Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que tiene que seguir ese paso para poder realizar lo que el usuario quiere, en este caso, restablecer la contraseña.
+Cuando hayan escrito su correo electrónico y hagan clic en restablecer contraseña, se les indicará que:
+NOTA: Te hemos enviado un correo con los pasos para regenerar tu contraseña 
+Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que tiene que seguir ese paso para poder realizar lo que el usuario quiere, en este caso, restablecer la contraseña.
+El mensaje del e-mail que reciban en su correo será el siguiente:
+![mensaje 1](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-estructura/3-estructura/Imágenes/mensaje%201.jpg)
+
+Cuando hagan clic en el enlace, irán directamente a la página de login y aparecerá una nota arriba de la página:
+NOTA: Email verificado. Le hemos enviado un nuevo correo con las nuevas indicaciones para acceder a Musikamania.com Esta nota aparecerá debajo de las secciones en una barra de color verde. El color verde muestra que ya ha logrado verificar el e-mail.
+El mensaje del e-mail que reciban en su correo será el siguiente:
+![mensaje 2](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/anejuaristi-estructura/3-estructura/Imágenes/mensaje%202.jpg)
+
+Cuando hagan clic en el enlace, irán directamente a la página de login de Musikamania.com
+
+##### Cuando hacen clic en "Regístrate"
+
+Si el usuario no está registrado y hace clic en “Regístrate”, le aparecerá un formulario de entrada con los siguientes campos:
+
+![Registro](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/4-esqueleto/imagenes/Registro005.jpg?raw=true)
+
+- País (estará directamente puesto España, si son de aquí no tendrán que hacer nada, si no son de España tendrán que buscar su país) Si eligen España también se les preguntará por la provincia y la localidad. Si ponen algún otro país que no sea España, en el momento que hagan clic en el país van a desaparecer los campos de provincia y localidad.
+- Provincia (aparecerán todas las provincias de España en una barra y tendrán que hacer clic en la suya)
+- Localidad (según la provincia que elijan les aparecerán todos los municipios de esta provincia en una barra y tendrán que hacer clic en la suya. Cuando ponen su municipio aparecerá directamente el código postal
+- Año de nacimiento (aparecerán todos los años empezando desde el 2000 en una barra)
+- Sexo (aparecerán hombre y mujer en una barra)
+
+Cuando se les pregunte:¿De qué géneros te gustaría recibir noticias?
+- Si hacen clic en Otro les aparecerá un cuadro de texto donde podrán escribir el nombre del género que estén interesados
+
+- Cada género musical tendrá una casilla de verificación y el usuario tendrá que marcar alguno si tiene especial interés en ello. En el caso de que hayan elegido algún/os género/s musical/es, se recopilarán todas las publicaciones que se hayan clasificado dentro del género o géneros que hayan seleccionado al registrarse y se les mandará un e-mail a finales de cada mes con el siguiente mensaje.
+
+![Contenido vía e-mail](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/4-esqueleto/imagenes/Recibir%20contenido%20v%C3%ADa%20email.png?raw=true)
+
+Si hacen clic en el enlace se les conducirá directamente al contenido que se haya publicado en la página.
+
+- He leído y acepto los Términos de uso. (estará indicado con una casilla de verificación donde tendrán que clicar encima para aceptar. Para ver que ya lo han aceptado aparecerá un tick dentro de la casilla). Si hacen clic en Registrarse sin haber rellenado la casilla de verificación de los términos de uso les aparecerá una nota debajo de las secciones en una barra roja.
+NOTA: Para registrarse es obligatorio aceptar los Términos de uso. Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que es necesario seguir ese paso para poder realizar bien el formulario.
+
+- Después de rellenar todos los campos (son obligatorios), hacer clic en Registrarse.
+
+- Una vez que hayan hecho clic en Registrarse, se les conducirá directamente a la página de login con una nota arriba de la página:
+NOTA: Registro exitoso. Ingresa tus credenciales para acceder. Esta nota aparecerá debajo de las secciones en una barra de color verde. El color verde muestra que ha logrado rellenar el formulario con éxito.
+En este caso volverán a la página de login para acceder a su cuenta mediante el e-mail o el nombre de usuario y la contraseña.
+
+Los usuarios registrados tendrán la opción a ver contenido más desarrollado que los usuarios no registrados no tienen acceso. Esto no lo van a notar los usuarios porque una vez que ya se hayan registrado podrán navegar por todas las páginas de la web y les aparecerá siempre todo el contenido. Sin embargo, a los usuarios que no estén registrados, cada vez que accedan a algún contenido, les aparecerá la siguiente NOTA: Si quieres ver más es necesario que te registres. Link a la página de Regístrate.
+
+#### Contenido
+
+##### Página principal
+
+En la página de inicio, debajo del menú con las secciones, aparecerán los títulos y las fotos asociadas al contenido. Para ampliarlo, el usuario deberá hacer clic sobre él y se le enviará a la página en la que está el contenido en su totalidad. La forma en la que se mostrará el contenido será en Scroll infinito (como en Twitter o Facebook); esto significa que el usuario verá todas las entradas disponibles a medida que vaya descendiendo, en orden cronológico de lo más reciente a lo más antiguo.
+En caso de que el usuario agotase todo el contenido, aparecerá un botón para cargar y actualizar la página.
+El título de las entradas estarán disponibles para todos los usuarios, pero los contenidos ampliados solo estarán disponibles para los usuarios registrados que hayan iniciado sesión. Al resto les aparecerá un mensaje Pop up diciéndoles que deben registrarse, por lo que se les enviará a la página de registro.
+
+![Página principal]()
+
+##### Cuando el usuario haga clic en algún contenido
+
+![Contenido](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/4-esqueleto/imagenes/Ejemplo%20contenido001.jpg?raw=true)
+
+Cuando un usuario haga clic en cualquier contenido de las secciones de actualidad, entrevistas o reportajes, se le enviará a la página en la que está escrito el contenido. En las tres secciones, los contenidos seguirán el mismo modelo: título, una foto, subtítulo (si lo hubiera) el nombre del redactor y el texto; si el usuario hace clic en el nombre del redactor se le abrirá una pestaña nueva en el navegador con el perfil de Linkedin, Instagram o Twitter del redactor (el mismo lo decidirá). También aparecerá la fecha en la que se ha escrito.
+En los post, se añadirán hiperenlaces en las palabras clave del texto, a modo de conectarlos con otros contenidos de nuestra página o bien para añadir información externa que sea de utilidad para el usuario. Al final de las entradas, aparecerán los tags o etiquetas que se han utilizado, así como los iconos de las redes sociales Facebook y Twitter, en caso de que alguien quiera compartir el enlace.
+Cuando hagan clic en una de ellas, se les abrirá otra pestaña en el navegador con la dirección de dicho portal. En caso de que tengan la sesión iniciada podrán compartir el link directamente, en caso de que no sea así, tendrán que iniciar sesión y copiar el link ellos mismos o volver a la pestaña de nuestra web y volver a hacer clic en el icono de la red social. Cuando compartan el contenido en las redes sociales, aparecerán el título y el enlace al contenido.
+Debajo de los iconos de las redes sociales también aparecerá un cuadro con nombre de usuario y campo de texto para que los interesados en ello puedan dejar cualquier comentario.
+Cuando dejen cualquier comentario, aparecerá ya escrito el nombre de usuario con el que se hayan registrado en la página web, de modo que no habrá mensajes anónimos.
+
+
+##### Dejar comentarios
+
+![Comentar](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/4-esqueleto/imagenes/Dejar%20un%20comentario.jpg?raw=true)
+
+Cuando hagan clic en Comentar, aparecerá el comentario que han escrito con su nombre de usuario y la fecha y hora exacta debajo del contenido al que hayan accedido. En el caso de los usuarios no registrados, no les aparecerá ningún nombre de usuario en su casilla y si hacen clic en la caja de texto donde se escribe el comentario les aparecerá la siguiente NOTA: Para dejar comentarios es necesario que te registres. Link a la página de Regístrate. 
+
+#### Listas de canciones
+
+En la página de inicio, hemos colocado un reproductor con cuatro listas de canciones previamente seleccionadas. Las listas son “Lo más escuchado del rock”, “Lo más escuchado del Pop”, “Lo más escuchado de reggaeton” y “lo más escuchado de electrónica”: Una vez a la semana cambiaremos las canciones de las cuatro listas a modo de ir renovando y actualizando la música que les ofrecemos a nuestros usuarios.
+En la página de inicio, el usuario observará el nombre de la lista y, debajo de ésta, un botón de play, el nombre de la canción, un guión, y el nombre del artista. Se mostrarán cuatro canciones por lista, aunque dentro de ésta haya seis canciones más.
+Si no están registrados, les aparecerán las listas y los nombres de las canciones, pero no tendrán la opción de escucharlas. Si hacen clic en el botón de play, les conducirá directamente a la página de regístrate con una nota:
+NOTA: Para escuchar las canciones, es necesario que estés registrado. Esta nota aparecerá debajo de las secciones en una barra de color rojo. El color rojo muestra que no podrán escuchar las canciones sin están registrados.
+
+##### Barra de reproducción
+
+Las personas registradas, cuando hagan clic encima del play de cualquier canción, ésta se reproducirá automáticamente y aparecerá una barra de reproducción abajo de la página para indicar lo siguiente: Se está reproduciendo la canción y su duración. Si hacen clic encima del logo de pausa (II), se parará automáticamente y el logo se cambiará a la de reproducir (punta de la flecha).
+En la duración de la canción, aparecerá una línea en la que se observará el tiempo de la canción. En el extremo izquierdo aparecerá escrito 00.00 y, a medida que la canción avance, se irán añadiendo los segundos y minutos. Sobre la línea temporal aparecerá un botón para saber que parte de la canción se ha escuchado y por donde va. A medida que la rueda avance, la parte que ya se ha transcurrido cambiará a color blanco. En el extremo derecho siempre aparecerá la duración de la canción. Aunque los usuarios sigan navegando en la página web la barra de reproductor seguirá apareciendo siempre abajo de la página. Si los usuarios quieren quitar la barra de reproducción, tendrán un X a la derecha de la barra de reproductor y si hacen clic encima del X la barra de reproducción desaparecerá.
+
+![Barra de reproducción](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/4-esqueleto/imagenes/Barra%20de%20reproducci%C3%B3n002.jpg?raw=true)
+
+#### Agenda
+
+En la página de inicio, debajo de las listas de reproducción, aparecerán las primeras cinco entradas de la agenda, ordenadas en prioridad por fecha, de lo más inmediato a lo más alejado en el tiempo; el usuario podrá ver el título del acontecimiento, la fecha y la hora de comienzo en la que se va a celebrar y una foto si la hubiera.
+La agenda es una sección dentro de la web, es decir, tiene su propia página, por lo que si un usuario hace clic en el título “Agenda”, se le enviará a la página en la que se encuentran todas las entradas relacionadas con esta sección. Primero aparecerán los cinco primeros acontecimientos que aparecen en la página principal seguidos de futuros acontecimientos. Estos acontecimientos no tendrán su propia página, por lo que no se podrá acceder a ninguna otra página a través de ellos; aparecerá únicamente el listado con la información precisa de cada acontecimiento, es decir, el título del acontecimiento,la fecha y hora y el lugar donde se va a celebrar.
+La forma en la que se mostrará el contenido será en Scroll infinito; esto significa que el usuario verá todos los acontecimientos a medida que vaya descendiendo, en orden cronológico de lo más reciente a lo más próximo. Los acontecimientos que ya se hayan celebrado se eliminarán automáticamente de la lista.
+Todos los usuarios, independientemente de si están registrados o no, podrán acceder a los contenidos que se muestran en la agenda.
+
+![Agenda](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/4-esqueleto/imagenes/Agenda003.jpg?raw=true)
+
+#### Videoclips
+
+En la sección “Videoclips”, el usuario encontrará una selección de vídeos musicales que nosotros habremos escogido previamente. Nuestros criterios a la hora de seleccionarlos no solo responden a la popularidad de los vídeos o a la de los artistas que lo interpretan, sino que también valoramos su originalidad y calidad artística, así como aquello que creamos interesante para nuestros visitantes, ya que son personas con un perfil curioso, pero también exigente.
+Los vídeos se cogerán de la plataforma Youtube, de modo que nosotros tan solo tendremos que insertar el enlace correspondiente dentro de nuestra web para que, una vez que el usuario haga “play” sobre él, éste se reproduzca directamente, por lo que el usuario no tiene que entrar en Youtube, aunque en caso de quiera hacerlo, tan solo tendrá que pulsar el botón derecho de su ratón y hacer clic en la opción “abrir enlace en una nueva pestaña”.
+Los vídeos se mostrarán siguiendo una jerarquía que responde a un orden cronológico desde lo más reciente, a lo más antiguo. La idea, es que cada día se añada un videoclip nuevo por sección, a modo de que la sección esté constantemente ofreciendo nuevo contenido e incite al usuario a navegar por la misma.
+No habrá una sección específica dentro de la sección videoclips; será una única sección y ahí se irán insertando los vídeos. Los vídeos se podrán ver sin necesidad de hacer click sobre ellos, pero en caso de que el usuario quiera compartir el vídeo o leer la descripción del vídeo, deberá hacer click sobre él. En este caso, el vídeo se abrirá en una nueva página. 
+Respecto a lo que el usuario observará en la página individual del vídeo, éste verá el título del vídeo, la caja con el vídeo y, debajo de éste, un pequeño párrafo con información más detallada sobre él; podría ser una presentación del vídeo con una anécdota, por ejemplo. Al final de cada párrafo, el usuario observará las etiquetas que se han utilizado para categorizar el vídeo dentro de la página, a modo de relacionarlo con contenido similar. También habrá iconos sociales para que el usuario, no sólo comparta el vídeo, sino que también comparta nuestras aportaciones.
+
+![Videoclips](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/4-esqueleto/imagenes/videoclips.jpg?raw=true)
+
+#### Sistema de etiquetado
+
+Los contenidos publicados en la web estarán etiquetados de la siguiente manera para facilitar su búsqueda:
+
+- Etiquetas de sistemas de enlaces (hipervínculos dentro del contenido). Estos hipervínculos llevarán a todos los contenidos que tengan esa etiqueta.
+Autor del contenido
+Nombres propios de grupos y festivales
+
+- Tags:
+	- Autor del contenido
+	- Época del músico o grupo del que trata el contenido
+		- 1970s
+		- 1980s
+		- 1990s
+		- 2000s
+		- 2010s
+		- 2011
+		- 2012
+		- …
+	- Nombres propios mencionados en el contenido: cantantes, grupos y festivales
+	- Géneros musicales (no es una lista cerrada, se podrían incluir más si se requiere):
+		- Rock
+		- Pop
+		- Reggaetón
+		- Jazz
+		- Trap
+		- Punk
+		- Rap
+		- Techno
+		- Flamenco
+		- Country
+	- Subgéneros (los que sean necesarios en base a los géneros)
+	- Tags para clasificar el tipo de contenido:
+		- Noticia
+		- Última hora
+		- Crónica
+		- Fallecimiento
+		- Presentación
+		- Concierto
+		- Festival
+		- Entrevista
+		- Reportaje
+		- Nacional
+		- Internacional
+		- Lista
+		- Lo mejor
+		- Más escuchado
+		- Crítica
+
+
 ## Superficie
