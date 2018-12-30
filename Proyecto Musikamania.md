@@ -140,11 +140,18 @@ Siguiendo con el tema de los conciertos, también hemos preguntado si compran la
 
 ##### Personas
 
+![Persona 1](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/correccion-iodrie/Imagenes%20personas/persona1.jpg?raw=true)
+
+![Persona 2](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/correccion-iodrie/Imagenes%20personas/persona2.jpg?raw=true)
+
+![Persona 3](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/correccion-iodrie/Imagenes%20personas/persona3.jpg?raw=true)
+
 ## Alcance
 
 ### Especificaciones funcionales
 
 Musikamania
+						
 						Especificación Funcional
 
 						Mikel Aranzabe & Ane Juaristi
