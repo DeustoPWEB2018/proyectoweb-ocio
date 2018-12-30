@@ -243,5 +243,15 @@ Los administradores, a parte de ser los encargados de la gestión de contenidos,
 
 ##### Tablas de página
 
+![Agenda]()
+
+![Entrevista](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/2-alcance/Entrevista.jpg?raw=true)
+
+![Noticia](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/2-alcance/Noticias.jpg?raw=true)
+
+![Publicación de un CD](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/2-alcance/Publicaci%C3%B3n%20de%20CD.jpg?raw=true)
+
+![Reportaje](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/2-alcance/Reportaje.jpg?raw=true)
+
 ## Estructura y esqueleto
 ## Superficie
