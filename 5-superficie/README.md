@@ -1,5 +1,22 @@
 # Plano de superficie
 
+<<<<<<< HEAD
+## Guía de estilo
+
+### Logotipo
+
+### Color
+
+### Fuente
+
+### Rejilla
+
+### Gráficos y fotografías
+
+### Ejemplo
+
+## Referencias
+=======
 En este documento se recoge la ‘Guía de estilo’ de la página web de la revista musical Musikamania; en ella se establecerán las reglas para el correcto uso de sus ‘recursos de marca’, que incluyen los logos, lo colores y las fuentes. Estos elementos son los que le dotan de cierta personalidad a la revista, por lo que es importante que se usen tal y como se expresan en esta guía, ya que gracias a ello, ésta logrará distinguirse de la competencia, haciendo que los lectores se familiaricen con ella. 
 
 El propósito de esta guía es orientar a terceros a la hora de crear elementos que representen la marca de la revista, como bien puede serlo un anuncio o una tarjeta de visita. También les ayudará a los empleados, colaboradores, diseñadores externos y a las agencias de publicidad o de marketing, a crear identidad de marca en el momento de trabajar para Musikamania. 
@@ -179,3 +196,4 @@ Tipos de imágenes:
 -Iconos:
 
 Aquí nos referimos a la Lupa del buscador, el icono para compartir y los logos de Twitter, Facebook, etc. Éstos iconos se mostrarán en un tamaño de 100x100 píxeles.
+>>>>>>> e711173ccb78b6517fa2ee863c4111872ad201aa
