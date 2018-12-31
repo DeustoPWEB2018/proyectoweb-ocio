@@ -160,6 +160,60 @@ Siguiendo con el tema de los conciertos, también hemos preguntado si compran la
 
 ### Lean UX Canvas
 
+<table markdown="1"><tbody><tr><td markdown="1">
+
+**Problema**
+
+Hay muchos blogs sobre música, pero muy pocos que hablen sobre una amplia variedad de géneros musicales en profundidad. Algunos blogs tienen publicidad molesta que molesta al consumir el contenido, además, la forma en la que se presenta la información no siempre es apta para lecturas prolongadas.
+
+</td><td rowspan=2 markdown="1">
+
+**Ideas de soluciones**
+
+La propuesta de Musikamania.com radica en la creación de un contenido de calidad para que se consuma en una página web sencilla, de estilo minimalista en la que el contenido prime por encima de cualquier otro elemento, a modo de que el usuario disfrute de una experiencia óptima. 
+
+</td><td markdown="1">
+
+**Resultados**
+
+Se espera que el público objetivo valore la web y, poco a poco, lleguen los visitantes. Se espera fiscalizar a los usuarios interesados por la música.  
+
+</td></tr><tr><td markdown="1">
+
+**Usuarios**
+
+Los usuarios a quienes se dirige la web tienen una edad comprendida entre los 16 y los 40 años, ya que la gran mayoría se manejan bien con Internet, además de presentar un elevado interés por la música en general.
+
+</td><td markdown="1">
+
+**Beneficios para los usuarios**
+
+- Los usuarios dispondrán de una web de diseño atractivo. La forma en la que se presentará la información será muy intuitiva, el usuario podrá navegar por la página, pudiendo acceder al contenido sin complicaciones. 
+- La publicidad no será excesiva y sólo aparecerá en la página de inicio. Los usuarios podrán registrarse y tener un nombre de usuario y una contraseña con la que podrán acceder a un perfil propio en el que podrán guardar contenido y escribir comentarios.
+
+</td></tr><tr><td markdown="1">
+
+**Hipótesis**
+
+- Los usuarios quieren contenido de calidad y que ofrezca mayor profundidad. 
+- Los usuarios prefieren una web sencilla.
+- Los usuarios valoran la calidad más que la cantidad.
+- Los usuarios valorarán la diversidad de temas y de estilos musicales.
+
+</td><td markdown="1">
+
+**¿Qué es lo más importante que tenemos que aprender primero?**
+
+Los gustos y costumbres de los potenciales usuarios y, en base a ello, definir los criterios de diseño y de creación del contenido. 
+
+</td><td markdown="1">
+
+**¿Cuál es el trabajo mínimo que tenemos que hacer para aprender lo siguiente más importante?**
+
+Hay que realizar una encuesta a personas que entren dentro del público objetivo de la página web.
+
+</td></tr></tbody></table>
+
 ## Alcance
 
 ### Especificaciones funcionales
@@ -626,9 +680,52 @@ Así es cómo se va a mostrar la página principal de Musikamania.com:
 
 #### Logos
 
+![Logo1](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/Spin%20Shark.png?raw=true)
+
+Explicación: El logo se compone de dos elementos (Logo mark y word mark) el primero es se trata del símbolo distintivo de la revista, unos auriculares dentro de un círculo naranja a rayas. El el segundo se trata de la palabra Musikamania, escrita en tipografía Bebas Neue, tamaño 50, seguido de un .com, escrito en Open Sans 13,9.
+
+Espacios y tamaño mínimo: No hemos establecido un tamaño exacto para el logo, pero lo que sí tenemos claro, es que la escala y las proporciones deben estar determinadas por el espacio disponible, la estética, la función y la  visibilidad. En cuanto al tamaño mínimo para el logotipo, éste no debe ser menor de los 250px de ancho. 
+
+Colores y fondos: El logo de Musikamania se puede utilizar con un fondo blanco o negro y, dependiendo de este, se utilizará uno de los dos logos disponibles. En caso de que haya que insertarlo en algún otro lugar que ya tenga un fondo con un color que no sea el blanco o el negro, se utilizará el logo con fondo transparente, a modo que el logo mark, el dibujo, adquiera el mismo color. 
+
+Especificar el uso correcto del logotipo: El logotipo solo debe llevar los colores que se especifican en la guía de color, a excepción del gris (#4A4A4A) y el azul claro (#A9D0F5). En el caso de que el color de fondo sea negro, solo se usará el color naranja para el logo mark.
+
+![Logo2](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/Spin%20Shark%20(1).png?raw=true)
+
+![Logo3](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/Spin%20Shark%20(5).png?raw=true)
+
+![Logo4](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/Spin%20Shark%20(6).png?raw=true)
+
+Utilización del logo mark; colores y fondos:
+
+![Logo5](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/Spin%20Shark%20(2).png?raw=true)
+
+![Logo6](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/Spin%20Shark%20(3).png?raw=true)
+
+El logo mark en solitario podrá usarse en color naranja para fondo negro y en color azúl para fondo blanco.
+
+![Logo6](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/Musikamania.png?raw=true)
+
+Ejemplo del logo mark en fondo negro. 
+
+![Logo7](https://github.com/DeustoPWEB2018/proyectoweb-ocio/blob/master/5-superficie/Musikamania%20(2).png?raw=true) 
+
+Ejemplo del logo mark en fondo blanco
+
 ### Musikamania como marca
 
+La marca Musikamania es mucho más que un logo. Es un sistema visual que engloba los aspectos más importantes de la personalidad distintiva de ésta revista musical. En Musikamania se le otorga especial importancia a la calidad del contenido frente a cualquier otro factor; por este motivo, es conveniente comentar desde el principio, que el contenido siempre debe ser el elemento más importante dentro de la página web, de modo que todos los recursos de marca deben contribuir a que el contenido sea consumido de la forma más clara, sencilla y atractiva posible. En resúmen, en esta revista se ha apostado por un diseño minimalista, ya que así se eliminan todos aquellos elementos que resulten pesados para la vista. El propósito es dar protagonismo al contenido, ya sea texto, fotografías, vídeos o la combinación de todos los elementos. Desde el punto de vista visual, el diseño minimalista está pensado para no sobrecargar la mente del observador, ayudándole a centrarse en la observación de la pieza.
+
 #### Valor de marca
+
+Los valores que definen la Musikamania.com son:
+- Honestidad
+- Sencillez
+- Rigurosidad
+- Conocimiento
+- Creatividad
+- Diversidad
+
 
 ### Color y fuente
 
